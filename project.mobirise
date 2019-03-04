@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-03-04_1542",
+    "name": "Hydrolico Inc 2019",
     "currentPage": "index.html",
     "theme": {
       "name": "directm",
@@ -30,6 +30,13 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "сanonical-url": "",
     "uniqCompNum": 8,
     "versionPublish": "4.9.3"
   },
