@@ -608,7 +608,7 @@ a:hover {
   font-size: 32px;
 }
 #footer2-7 .footer-list {
-  color: #74a3c7;
+  color: #fffffd;
 }
 #footer2-7 .btn-social {
   border-color: #74a3c7;
@@ -617,6 +617,9 @@ a:hover {
 #footer2-7 .btn-social:hover {
   background: #74a3c7;
   color: #fff;
+}
+#footer2-7 .footer-header {
+  color: #fffffd;
 }
 
 
