@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hydrolico Inc 2019",
-    "currentPage": "page4.html",
+    "currentPage": "conception-fabrication.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -440,8 +440,8 @@
         },
         {
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "showHeading": true,
             "showTitle": true,
             "showText": false,
