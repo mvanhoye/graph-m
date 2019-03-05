@@ -38,7 +38,8 @@
     "gdpr": "",
     "сanonical-url": "",
     "uniqCompNum": 8,
-    "versionPublish": "4.9.3"
+    "versionPublish": "4.9.3",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -210,8 +211,8 @@
             "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "containerColor1": "#828ad7",
-            "containerColor2": "#50a54c",
+            "containerColor1": "#424242",
+            "containerColor2": "#929292",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
