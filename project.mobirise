@@ -1,12 +1,12 @@
 {
   "settings": {
     "name": "Hydrolico Inc 2019",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
       "styling": {
-        "primaryColor": "#e8e8e8",
+        "primaryColor": "#ffffff",
         "secondaryColor": "#A25DAE",
         "successColor": "#1E7C3A",
         "infoColor": "#929292",
@@ -20,13 +20,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#ffffff",
         "#cbcbcb",
         "#8c8c8c",
         "#e8e8e8",
         "#929292",
         "#474e92",
-        "#828ad7",
-        "#50a54c"
+        "#828ad7"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -39,7 +39,7 @@
     "cookiesAlert": "",
     "gdpr": "",
     "сanonical-url": "",
-    "uniqCompNum": 16,
+    "uniqCompNum": 44,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png"
   },
@@ -71,10 +71,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .link:focus": {
               "color": "#2b4484"
@@ -121,8 +121,8 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#c8c8c8",
-            "fontSize": "1.05",
-            "imageSize": "3",
+            "fontSize": "0.9",
+            "imageSize": "4",
             "fontName": {
               "name": "Montserrat",
               "css": "'Montserrat', sans-serif",
@@ -132,7 +132,7 @@
             "fontColor": "#2d2d2d",
             "fontHoverColor": "#2b4484"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">À PROPOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUITS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">RÉPARATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"conception-fabrication.html\" aria-expanded=\"false\">CONCEPTION/FABRICATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-info\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">À PROPOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PRODUITS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">RÉPARATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"conception-fabrication.html\" aria-expanded=\"false\">CONCEPTION/FABRICATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-info\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -159,52 +159,12 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "contentAlign": "left",
-            "showArrow": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/new-building-3d-1772x908.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#bdb39a",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.4"
-          },
-          "title": "BIENVENUE CHEZ <br><b>HYDROLICO INC.</b>",
-          "text": "<p>Hydrolico, depuis 1994, est un fabricant et distributeur de vérins hydrauliques\nsur mesure et d’unités de puissance.\nHydrolico se démarque autant par\nla qualité de ses produits que par\nsa capacité à livrer dans des\ndélais imbattables.&nbsp;Hydrolico s'est taillé une place enviable dans un marché hautement concurrentiel. Hydrolico est en mesure de vous proposer un service de qualité en effectuant la réparation et la remise à neuf de vérins hydrauliques ainsi que de pompes, de moteurs, de valves et plusieurs autres composantes hydrauliques.\nDe plus, Hydrolico est distributeur d’une vaste gamme de produits utilitaires.&nbsp;Au service d'une clientèle principalement répartie dans les industries forestière, minière et dans le secteur du transport, Hydrolico est en mesure de vous proposer un service juste-à temps. L'entreprise effectue également la vente, la réparation et la remise à neuf de vérins hydrauliques.&nbsp;</p><p><br>• &nbsp;&nbsp;&nbsp;&nbsp;Cylindres sur mesure\n<br>•&nbsp;&nbsp;&nbsp;&nbsp; Unités de puissance\n<br>• &nbsp;&nbsp;&nbsp;&nbsp;Systèmes hydrauliques\n<br>• &nbsp;&nbsp;&nbsp;&nbsp;Pompes à débit fixe et variable\n<br>• &nbsp;&nbsp;&nbsp;&nbsp;Valves mobiles et industrielles\n<br><br><b>Chez Hydrolico, le service et\nla qualité passent avant tout.</b></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"https://mobirise.com\">Download for Mac</a>",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "header4",
-          "_anchor": "header4-1",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header4 mbr-section-with-arrow mbr-parallax-background mbr-after-navbar\" data-rv-view=\"2\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/new-building-3d-1772x908.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.4; background-color: rgb(0, 0, 0);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row heading\">\n                <div class=\"col-md-10\">\n\n                    <h1 class=\"mbr-section-title display-1 heading-title mbr-editable-content\" code-editable-id=\"33\">BIENVENUE CHEZ <br><img src=\"assets/images/Logo Hydrolico horizontal-blanc.png\" alt=\"Mobirise\" title=\"\" style=\"width: 30%;\" class=\"\"></h1>\n                    <p class=\"mbr-section-subtitle sub-2 heading-text mbr-editable-content\" code-editable-id=\"34\"></p><p>Hydrolico, depuis 1994, est un fabricant et distributeur de vérins hydrauliques\nsur mesure et d’unités de puissance.\nHydrolico se démarque autant par\nla qualité de ses produits que par\nsa capacité à livrer dans des\ndélais imbattables.&nbsp;Hydrolico s'est taillé une place enviable dans un marché hautement concurrentiel. Hydrolico est en mesure de vous proposer un service de qualité en effectuant la réparation et la remise à neuf de vérins hydrauliques ainsi que de pompes, de moteurs, de valves et plusieurs autres composantes hydrauliques.\nDe plus, Hydrolico est distributeur d’une vaste gamme de produits utilitaires.&nbsp;Au service d'une clientèle principalement répartie dans les industries forestière, minière et dans le secteur du transport, Hydrolico est en mesure de vous proposer un service juste-à temps. L'entreprise effectue également la vente, la réparation et la remise à neuf de vérins hydrauliques.&nbsp;</p><p><br>• &nbsp;&nbsp;&nbsp;&nbsp;Cylindres sur mesure\n<br>•&nbsp;&nbsp;&nbsp;&nbsp; Unités de puissance\n<br>• &nbsp;&nbsp;&nbsp;&nbsp;Systèmes hydrauliques\n<br>• &nbsp;&nbsp;&nbsp;&nbsp;Pompes à débit fixe et variable\n<br>• &nbsp;&nbsp;&nbsp;&nbsp;Valves mobiles et industrielles\n<br><br><strong>Chez Hydrolico, le service et\nla qualité passent avant tout.</strong></p><p></p>\n                    \n                </div>\n            </div>\n        </div>\n\n        <div class=\"container-fluid\">\n            <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n                \n            </div>\n        </div>\n\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#footer2-7\"><i class=\"mbri-down\"></i></a></div>\n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);\n.mbr-iconfont {\n  color: undefined;\n  border-color: undefined;\n}\n.mbr-table-cell {\n  vertical-align: middle;\n}\n.heading-title {\n  font-family: 'Raleway', sans-serif;\n  font-size: 36px;\n}\n.heading-title B {\n  font-size: 48px;\n}\n.heading-text {\n  font-family: 'Oxygen', sans-serif;\n}\n.heading-text P {\n  font-size: 22px;\n  font-family: 'Arimo', sans-serif;\n}\n",
-          "_customTemplate": true,
-          "_styles": {
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            }
-          }
-        },
-        {
-          "_params": {
             "showIcons": false,
             "rows": "1",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
-            "paddingTop": "1",
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -252,13 +212,71 @@
               "font-size": "18px"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "38",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/new-building-3d-1772x908.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "containerColor1": "#094587",
+            "containerColor2": "#3adcdc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#2d2d2d",
+            "overlayOpacity": "0.5"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/hydrolico-blanc-carre-1400x947.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Bienvenue<br>chez Hydrolico Inc.",
+          "text": "Hydrolico, depuis 1994, est un fabricant et distributeur de vérins hydrauliques sur mesure et d’unités de puissance. Hydrolico se démarque autant par la qualité de ses produits que par sa capacité à livrer dans des délais imbattables. Hydrolico s'est taillé une place enviable dans un marché hautement concurrentiel. Hydrolico est en mesure de vous proposer un service de qualité en effectuant la réparation et la remise à neuf de vérins hydrauliques ainsi que de pompes, de moteurs, de valves et plusieurs autres composantes hydrauliques. De plus, Hydrolico est distributeur d’une vaste gamme de produits utilitaires. Au service d'une clientèle principalement répartie dans les industries forestière, minière et dans le secteur du transport, Hydrolico est en mesure de vous proposer un service juste-à temps. L'entreprise effectue également la vente, la réparation et la remise à neuf de vérins hydrauliques. \n<br>\n<br>\n<br>• Cylindres sur mesure \n<br>• Unités de puissance \n<br>• Systèmes hydrauliques \n<br>• Pompes à débit fixe et variable \n<br>• Valves mobiles et industrielles \n<br>\n<br>Chez Hydrolico, le service et la qualité passent avant tout.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-m",
+          "_styles": {
+            "H3": {
+              "font-size": "48px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     },
     "conception-fabrication.html": {
       "settings": {
         "title": "CONCEPTION/FABRICATION",
-        "order": 1
+        "order": 4
       },
       "components": [
         {
@@ -278,10 +296,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .link:focus": {
               "color": "#2b4484"
@@ -328,8 +346,8 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#c8c8c8",
-            "fontSize": "1.05",
-            "imageSize": "3",
+            "fontSize": "0.9",
+            "imageSize": "4",
             "fontName": {
               "name": "Montserrat",
               "css": "'Montserrat', sans-serif",
@@ -339,7 +357,7 @@
             "fontColor": "#2d2d2d",
             "fontHoverColor": "#2b4484"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">À PROPOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUITS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">RÉPARATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"conception-fabrication.html\" aria-expanded=\"false\">CONCEPTION/FABRICATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-info\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">À PROPOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PRODUITS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">RÉPARATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"conception-fabrication.html\" aria-expanded=\"false\">CONCEPTION/FABRICATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-info\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -370,8 +388,8 @@
             "rows": "1",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
-            "paddingTop": "1",
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -429,7 +447,7 @@
             "showText": false,
             "showButtons": false,
             "contentAlign": "center",
-            "columns": "3",
+            "columns": "1",
             "iconsBgColor": "@primaryColor",
             "showFeaturesTitles": true,
             "showFeaturesTexts": true,
@@ -447,7 +465,7 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": 0.95
           },
-          "title": "FABRICATION",
+          "title": "CONCEPTION / FABRICATION",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
           "header": "For business",
@@ -461,9 +479,9 @@
               "family": "MobiriseIcons"
             }
           },
-          "title1": "CONCEPTION",
+          "title1": "<b>CONCEPTION et SOLUTION&nbsp;</b>",
           "subtitle1": "Awesome",
-          "text1": "• Systèmes hydrauliques\n<br>• Vérins spéciaux\n<br>• Équipements spécialisés\n<br>• Conception de solutions personnalisées",
+          "text1": "• HYDRAULIQUE<br>• PNEUMATIQUE",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
@@ -475,9 +493,9 @@
               "family": "MobiriseIcons"
             }
           },
-          "title2": "FABRICATION&nbsp;",
+          "title2": "<b>FABRICATION&nbsp;</b>",
           "subtitle2": "Awesome",
-          "text2": "• Fabrication de cylindres sur mesure\n<br>• Unités de puissance\n<br>• Systèmes clé en main",
+          "text2": "• USINAGE<br>• SOUDURE&nbsp;<br>• ASSEMBLAGE<br>• TESTS",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media3": {
             "iconFont": {
@@ -549,7 +567,7 @@
               "text-align": "left"
             },
             ".card-title": {
-              "text-align": "left"
+              "text-align": "center"
             }
           }
         }
@@ -558,7 +576,7 @@
     "page2.html": {
       "settings": {
         "title": "RÉPARATIONS",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -578,10 +596,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .link:focus": {
               "color": "#2b4484"
@@ -628,8 +646,8 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#c8c8c8",
-            "fontSize": "1.05",
-            "imageSize": "3",
+            "fontSize": "0.9",
+            "imageSize": "4",
             "fontName": {
               "name": "Montserrat",
               "css": "'Montserrat', sans-serif",
@@ -639,7 +657,7 @@
             "fontColor": "#2d2d2d",
             "fontHoverColor": "#2b4484"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">À PROPOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUITS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">RÉPARATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"conception-fabrication.html\" aria-expanded=\"false\">CONCEPTION/FABRICATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-info\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">À PROPOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PRODUITS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">RÉPARATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"conception-fabrication.html\" aria-expanded=\"false\">CONCEPTION/FABRICATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-info\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -670,8 +688,8 @@
             "rows": "1",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
-            "paddingTop": "1",
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -721,64 +739,1104 @@
           "_anchor": "footer2-d"
         },
         {
-          "_inherit": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": 0,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "filterBgColor": false,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "showHeading": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "columns": "2",
+            "featuresBg": "#424242",
+            "showFeaturesHeader": true,
+            "showFeaturesImages": true,
+            "iconsBgColor": "@primaryColor",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          },
+          "title": "Réparations",
+          "text": "Différents modes de réparations sont offerts",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "header": "<b>RÉPARATIONS</b>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "setting",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#828ad7"
+            }
+          },
+          "title1": "<b>Mécanique industriel</b>",
+          "subtitle1": "Awesome",
+          "text1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam voluptatum non dolor reprehenderit aliquid excepturi, veritatis magnam iste sunt culpa provident suscipit ea. Deleniti, animi?",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#828ad7"
+            }
+          },
+          "title2": "<b>Mécanique mobile</b>",
+          "subtitle2": "Awesome",
+          "text2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste sit quaerat rem vitae odio error consequatur, cum voluptatem eum explicabo vero, impedit quo, quae veniam.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "retweet",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#828ad7"
+            }
+          },
+          "title3": "<b>Pneumatique</b>",
+          "subtitle3": "Awesome",
+          "text3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum reprehenderit omnis quis quaerat mollitia consequuntur fugiat nemo fuga, culpa, consequatur perferendis ipsam, aut, quam cum.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "database",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#828ad7"
+            }
+          },
+          "title4": "<b>Automation</b>",
+          "subtitle4": "Awesome",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio quaerat corporis similique esse eius velit, officia consequuntur sequi voluptatum perspiciatis. Officiis quae beatae praesentium iure?",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "cash",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#fff",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title5": "Host Anywhere",
+          "subtitle5": "Awesome",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo error voluptatibus possimus nobis quos minima pariatur aperiam, sunt commodi incidunt nam iusto ipsa distinctio ipsam!",
+          "button5": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "unlock",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#fff",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title6": "Bootstrap 4",
+          "subtitle6": "Awesome",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut officia reiciendis id enim hic harum voluptatem repellat incidunt soluta cum quia facere sed, ea illo.",
+          "button6": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-o",
+          "_styles": {
+            ".mbr-iconfont": {
+              "background": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            ".features": {
+              "background": "#424242"
+            },
+            ".card-title": {
+              "color": "#fffffd"
+            },
+            ".features-title B": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "32px",
+              "color": "#ffffff"
+            },
+            ".heading-text": {
+              "text-align": "center"
+            },
+            ".features-title": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "CONTACT",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#2d2d2d"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#2d2d2d"
+            },
+            ".link, .dropdown-item": {
+              "color": "#2d2d2d",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "#2b4484"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "#2b4484"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#2d2d2d"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#c8c8c8"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#c0c0c0!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#c8c8c8"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#2d2d2d",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#2b4484"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2b4484!important"
+            },
+            "A": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#c8c8c8",
+            "fontSize": "0.9",
+            "imageSize": "4",
+            "fontName": {
+              "name": "Montserrat",
+              "css": "'Montserrat', sans-serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "fontColor": "#2d2d2d",
+            "fontHoverColor": "#2b4484"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">À PROPOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PRODUITS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">RÉPARATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"conception-fabrication.html\" aria-expanded=\"false\">CONCEPTION/FABRICATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-info\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-hydrolico-horizontal-520x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-p"
+        },
+        {
+          "_params": {
+            "showIcons": false,
+            "rows": "1",
+            "listColor": "#b7b7b7",
+            "btnColor": "#e8e8e8",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#2d2d2d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "heading": "© 2019 - HYDROLICO Inc. - Tous droits réservés -&nbsp;",
+          "list1": "<a href=\"http://mobirise.com\" class=\"text-primary\">Boost your ranking</a>",
+          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
+          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "footer2",
+          "_styles": {
+            ".footer-list": {
+              "color": "#b7b7b7"
+            },
+            ".btn-social": {
+              "border-color": "#e8e8e8",
+              "color": "#e8e8e8"
+            },
+            ".btn-social:hover": {
+              "background": "#e8e8e8",
+              "color": "#fff"
+            },
+            ".footer-header": {
+              "color": "#fffffd",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "footer2-q"
+        },
+        {
+          "_styles": {
+            ".card": {
+              "background-color": "transparent",
+              "box-shadow": "none",
+              "border": "none"
+            },
+            ".card-img a": {
+              "color": "#616161",
+              "border-color": "#616161",
+              "border-width": "2px",
+              "line-height": "72px"
+            },
+            ".heading": {
+              "background": "#616161"
+            }
+          },
+          "_params": {
+            "showHeading": true,
+            "showTitle": true,
+            "showText": true,
+            "showCheckbox": false,
+            "formBg": "#616161",
+            "formHeader": false,
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
             "bgColor": "#fff",
-            "showText": false,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          },
+          "title": "PRENEZ CONTACT AVEC NOUS ...",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "header": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, veniam?",
+          "form": {
+            "action": "info@hydrolico.com",
+            "alerts": {
+              "success": "Merci de nous avoir fait part de vos informations !"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nom*"
               },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Courriel*"
               },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallery03.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery03.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Téléphone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
               }
-            ]
+            }
+          },
+          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVOYER</a>",
+          "checkbox": "I agree to the <a href=\"http://mobirise.com\">terms</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "form3",
+          "_anchor": "form3-r"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "PRODUITS",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#2d2d2d"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#2d2d2d"
+            },
+            ".link, .dropdown-item": {
+              "color": "#2d2d2d",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "#2b4484"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "#2b4484"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#2d2d2d"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#c8c8c8"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#c0c0c0!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#c8c8c8"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#2d2d2d",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#2b4484"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2b4484!important"
+            },
+            "A": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#c8c8c8",
+            "fontSize": "0.9",
+            "imageSize": "4",
+            "fontName": {
+              "name": "Montserrat",
+              "css": "'Montserrat', sans-serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "fontColor": "#2d2d2d",
+            "fontHoverColor": "#2b4484"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">À PROPOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PRODUITS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">RÉPARATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"conception-fabrication.html\" aria-expanded=\"false\">CONCEPTION/FABRICATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-info\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-hydrolico-horizontal-520x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-s"
+        },
+        {
+          "_params": {
+            "showIcons": false,
+            "rows": "1",
+            "listColor": "#b7b7b7",
+            "btnColor": "#e8e8e8",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#2d2d2d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "heading": "© 2019 - HYDROLICO Inc. - Tous droits réservés -&nbsp;",
+          "list1": "<a href=\"http://mobirise.com\" class=\"text-primary\">Boost your ranking</a>",
+          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
+          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "footer2",
+          "_styles": {
+            ".footer-list": {
+              "color": "#b7b7b7"
+            },
+            ".btn-social": {
+              "border-color": "#e8e8e8",
+              "color": "#e8e8e8"
+            },
+            ".btn-social:hover": {
+              "background": "#e8e8e8",
+              "color": "#fff"
+            },
+            ".footer-header": {
+              "color": "#fffffd",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "footer2-t"
+        },
+        {
+          "_inherit": "features2",
+          "_styles": {
+            ".card": {
+              "background-color": "transparent",
+              "box-shadow": "none",
+              "border": "none"
+            },
+            ".card-img a": {
+              "border-width": "2px",
+              "line-height": "72px"
+            },
+            ".mbr-iconfont": {
+              "color": "#616161",
+              "border-color": "#616161"
+            },
+            ".card-title": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            ".card-text": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            ".heading-title": {
+              "color": "#ffffff"
+            },
+            ".heading-text": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "showHeading": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "columns": "2",
+            "showFeaturesImages": true,
+            "iconsBgColor": "#616161",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1440.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
           },
           "_tags": [
             "Thème"
           ],
-          "articleLayout": false,
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
-          "allItem": "All",
-          "_name": "gallery2",
-          "_anchor": "gallery2-f"
+          "title": "Catégories de produits",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "touch",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "30",
+              "color": "#ffffff"
+            }
+          },
+          "title1": "HYDRAULIQUE",
+          "subtitle1": "Awesome",
+          "text1": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "30",
+              "color": "#ffffff"
+            }
+          },
+          "title2": "PNEUMATIQUE",
+          "subtitle2": "Awesome",
+          "text2": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "setting",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": "30",
+              "color": "#ffffff"
+            }
+          },
+          "title3": "What is Mobirise",
+          "subtitle3": "Awesome",
+          "text3": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_name": "features4",
+          "_anchor": "features4-z"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "showArrow": false,
+            "imageSize": "57",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#000000",
+            "containerColor2": "#424242",
+            "containerColor3": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.8
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/brand-logos-1400x186.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Distributeurs autorisés",
+          "text": "Hydro Custom | Winner | breveni fluid power | Lenz | Technord | E•MC | Stauff&nbsp; | Euro Fluid&nbsp;| Delta Power<br>Salami Fluid Power System &nbsp;| Prince | Hydro Leduc",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "header7",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header7-17"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "title": "SERVICES",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "features2",
+          "_styles": {
+            ".card": {
+              "background-color": "transparent",
+              "box-shadow": "none",
+              "border": "none"
+            },
+            ".card-img a": {
+              "border-width": "2px",
+              "line-height": "72px"
+            },
+            ".mbr-iconfont": {
+              "color": "#616161",
+              "border-color": "#616161"
+            },
+            ".heading-text": {
+              "text-align": "left"
+            },
+            ".heading-text B": {
+              "font-size": "20px"
+            },
+            ".card-text": {
+              "text-align": "left"
+            },
+            ".card-title": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 2,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "columns": "2",
+            "showFeaturesImages": true,
+            "iconsBgColor": "#616161",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/features4.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.8
+          },
+          "_tags": [
+            "Thème"
+          ],
+          "title": "<b>Liste des services offerts</b>",
+          "text": "<b>Comptoir de Pièces :&nbsp;</b><br>Responsable : <b>M. François Cloutier</b><br>450 628-6644 (225)\n<br>fcloutier@hydrolico.com<b><br>Horaires :</b> 8h à midi et 13h à 17h<br><br><b>MÉCANIQUE</b> - <b>HYDRAULIQUE </b>- <b>PNEUMATIQUE</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title1": "RÉPARATION",
+          "subtitle1": "Awesome",
+          "text1": "• Vérins Hydrauliques\n<br>• Moteurs\n<br>• Pompes\n<br>• Valves\n<br>• Unité de puissance\n<br>• Intégration",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title2": "CONCEPTION, ASSEMBLAGE ET FABRICATION",
+          "subtitle2": "Awesome",
+          "text2": "• Vérins\n<br>• Valves\n<br>• Unité de puissance\n<br>• Blocs forés\n<br>• Concept pneumatique\n<br>• Automation",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "setting",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title3": "What is Mobirise",
+          "subtitle3": "Awesome",
+          "text3": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_name": "features4",
+          "_anchor": "features4-16"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#2d2d2d"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#2d2d2d"
+            },
+            ".link, .dropdown-item": {
+              "color": "#2d2d2d",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "#2b4484"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "#2b4484"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#2d2d2d"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#c8c8c8"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#c0c0c0!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#c8c8c8"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#2d2d2d",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#2b4484"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2b4484!important"
+            },
+            "A": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#c8c8c8",
+            "fontSize": "0.9",
+            "imageSize": "4",
+            "fontName": {
+              "name": "Montserrat",
+              "css": "'Montserrat', sans-serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "fontColor": "#2d2d2d",
+            "fontHoverColor": "#2b4484"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">À PROPOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PRODUITS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">RÉPARATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"conception-fabrication.html\" aria-expanded=\"false\">CONCEPTION/FABRICATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-info\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-hydrolico-horizontal-520x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-12"
+        },
+        {
+          "_params": {
+            "showIcons": false,
+            "rows": "1",
+            "listColor": "#b7b7b7",
+            "btnColor": "#e8e8e8",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#2d2d2d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "heading": "© 2019 - HYDROLICO Inc. - Tous droits réservés -&nbsp;",
+          "list1": "<a href=\"http://mobirise.com\" class=\"text-primary\">Boost your ranking</a>",
+          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
+          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "footer2",
+          "_styles": {
+            ".footer-list": {
+              "color": "#b7b7b7"
+            },
+            ".btn-social": {
+              "border-color": "#e8e8e8",
+              "color": "#e8e8e8"
+            },
+            ".btn-social:hover": {
+              "background": "#e8e8e8",
+              "color": "#fff"
+            },
+            ".footer-header": {
+              "color": "#fffffd",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "footer2-13"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "showArrow": false,
+            "imageSize": "57",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#000000",
+            "containerColor2": "#424242",
+            "containerColor3": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.8
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/brand-logos-1400x186.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Distributeurs autorisés",
+          "text": "Hydro Custom | Winner | breveni fluid power | Lenz | Technord | E•MC | Stauff&nbsp; | Euro Fluid&nbsp;| Delta Power<br>Salami Fluid Power System &nbsp;| Prince | Hydro Leduc",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "header7",
+          "_anchor": "header7-15",
+          "_styles": {
+            "H3": {
+              "font-size": "23px"
+            },
+            "P": {
+              "font-size": "14px"
+            }
+          }
         }
       ]
     }
