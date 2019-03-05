@@ -564,7 +564,7 @@
               "border-color": "@primaryColor"
             },
             ".heading-title": {
-              "text-align": "left"
+              "text-align": "center"
             },
             ".card-title": {
               "text-align": "center"
