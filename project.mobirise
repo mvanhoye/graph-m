@@ -39,7 +39,7 @@
     "cookiesAlert": "",
     "gdpr": "",
     "сanonical-url": "",
-    "uniqCompNum": 15,
+    "uniqCompNum": 16,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png"
   },
@@ -132,15 +132,16 @@
             "fontColor": "#2d2d2d",
             "fontHoverColor": "#2b4484"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">À PROPOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUITS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RÉPARATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONCEPTION/FABRICATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-info\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">À PROPOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUITS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">RÉPARATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"conception-fabrication.html\" aria-expanded=\"false\">CONCEPTION/FABRICATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-info\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/hydrolico-blanc-carre-189x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-hydrolico-horizontal-520x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -173,90 +174,26 @@
               "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
             },
             "overlay": true,
-            "overlayColor": "#2d2d2d",
-            "overlayOpacity": "0.5"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.4"
           },
           "title": "BIENVENUE CHEZ <br><b>HYDROLICO INC.</b>",
-          "text": "<p>Hydrolico, depuis 1994, est un fabricant et distributeur de vérins hydrauliques\nsur mesure et d’unités de puissance.\nHydrolico se démarque autant par\nla qualité de ses produits que par\nsa capacité à livrer dans des\ndélais imbattables.\n<br><br>• &nbsp;&nbsp;&nbsp;&nbsp;Cylindres sur mesure\n<br>•&nbsp;&nbsp;&nbsp;&nbsp; Unités de puissance\n<br>• &nbsp;&nbsp;&nbsp;&nbsp;Systèmes hydrauliques\n<br>• &nbsp;&nbsp;&nbsp;&nbsp;Pompes à débit fixe et variable\n<br>• &nbsp;&nbsp;&nbsp;&nbsp;Valves mobiles et industrielles\n<br><br><b>Chez Hydrolico, le service et\nla qualité passent avant tout !</b></p>",
+          "text": "<p>Hydrolico, depuis 1994, est un fabricant et distributeur de vérins hydrauliques\nsur mesure et d’unités de puissance.\nHydrolico se démarque autant par\nla qualité de ses produits que par\nsa capacité à livrer dans des\ndélais imbattables.&nbsp;Hydrolico s'est taillé une place enviable dans un marché hautement concurrentiel. Hydrolico est en mesure de vous proposer un service de qualité en effectuant la réparation et la remise à neuf de vérins hydrauliques ainsi que de pompes, de moteurs, de valves et plusieurs autres composantes hydrauliques.\nDe plus, Hydrolico est distributeur d’une vaste gamme de produits utilitaires.&nbsp;Au service d'une clientèle principalement répartie dans les industries forestière, minière et dans le secteur du transport, Hydrolico est en mesure de vous proposer un service juste-à temps. L'entreprise effectue également la vente, la réparation et la remise à neuf de vérins hydrauliques.&nbsp;</p><p><br>• &nbsp;&nbsp;&nbsp;&nbsp;Cylindres sur mesure\n<br>•&nbsp;&nbsp;&nbsp;&nbsp; Unités de puissance\n<br>• &nbsp;&nbsp;&nbsp;&nbsp;Systèmes hydrauliques\n<br>• &nbsp;&nbsp;&nbsp;&nbsp;Pompes à débit fixe et variable\n<br>• &nbsp;&nbsp;&nbsp;&nbsp;Valves mobiles et industrielles\n<br><br><b>Chez Hydrolico, le service et\nla qualité passent avant tout.</b></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"https://mobirise.com\">Download for Mac</a>",
           "_tags": [
             "Thème"
           ],
           "_name": "header4",
           "_anchor": "header4-1",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header4 mbr-section-with-arrow mbr-parallax-background mbr-after-navbar\" data-rv-view=\"2\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/new-building-3d-1772x908.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.4; background-color: rgb(0, 0, 0);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row heading\">\n                <div class=\"col-md-10\">\n\n                    <h1 class=\"mbr-section-title display-1 heading-title mbr-editable-content\" code-editable-id=\"33\">BIENVENUE CHEZ <br><img src=\"assets/images/Logo Hydrolico horizontal-blanc.png\" alt=\"Mobirise\" title=\"\" style=\"width: 30%;\" class=\"\"></h1>\n                    <p class=\"mbr-section-subtitle sub-2 heading-text mbr-editable-content\" code-editable-id=\"34\"></p><p>Hydrolico, depuis 1994, est un fabricant et distributeur de vérins hydrauliques\nsur mesure et d’unités de puissance.\nHydrolico se démarque autant par\nla qualité de ses produits que par\nsa capacité à livrer dans des\ndélais imbattables.&nbsp;Hydrolico s'est taillé une place enviable dans un marché hautement concurrentiel. Hydrolico est en mesure de vous proposer un service de qualité en effectuant la réparation et la remise à neuf de vérins hydrauliques ainsi que de pompes, de moteurs, de valves et plusieurs autres composantes hydrauliques.\nDe plus, Hydrolico est distributeur d’une vaste gamme de produits utilitaires.&nbsp;Au service d'une clientèle principalement répartie dans les industries forestière, minière et dans le secteur du transport, Hydrolico est en mesure de vous proposer un service juste-à temps. L'entreprise effectue également la vente, la réparation et la remise à neuf de vérins hydrauliques.&nbsp;</p><p><br>• &nbsp;&nbsp;&nbsp;&nbsp;Cylindres sur mesure\n<br>•&nbsp;&nbsp;&nbsp;&nbsp; Unités de puissance\n<br>• &nbsp;&nbsp;&nbsp;&nbsp;Systèmes hydrauliques\n<br>• &nbsp;&nbsp;&nbsp;&nbsp;Pompes à débit fixe et variable\n<br>• &nbsp;&nbsp;&nbsp;&nbsp;Valves mobiles et industrielles\n<br><br><strong>Chez Hydrolico, le service et\nla qualité passent avant tout.</strong></p><p></p>\n                    \n                </div>\n            </div>\n        </div>\n\n        <div class=\"container-fluid\">\n            <div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n                \n            </div>\n        </div>\n\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#footer2-7\"><i class=\"mbri-down\"></i></a></div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);\n.mbr-iconfont {\n  color: undefined;\n  border-color: undefined;\n}\n.mbr-table-cell {\n  vertical-align: middle;\n}\n.heading-title {\n  font-family: 'Raleway', sans-serif;\n  font-size: 36px;\n}\n.heading-title B {\n  font-size: 48px;\n}\n.heading-text {\n  font-family: 'Oxygen', sans-serif;\n}\n.heading-text P {\n  font-size: 22px;\n  font-family: 'Arimo', sans-serif;\n}\n",
+          "_customTemplate": true,
           "_styles": {
             ".mbr-iconfont": {},
             ".mbr-table-cell": {
               "vertical-align": "middle"
-            },
-            ".heading-title": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "60px"
-            },
-            ".heading-title B": {
-              "font-size": "80px"
-            },
-            ".heading-text": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".heading-text P": {
-              "font-size": "24px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "showArrow": true,
-            "imageSize": "28",
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "containerColor1": "#424242",
-            "containerColor2": "#929292",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.8
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/hydrolico-blanc-carre-1400x947.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "À PROPOS D'HYDROLICO INC.",
-          "text": "&nbsp;Établie à Laval depuis 1994, Hydrolico s'est taillé une place enviable dans un marché hautement concurrentiel.Fabricant de vérins hydrauliques sur mesure, Hydrolico se démarque autant par la qualité de ses cylindres que par sa capacité à livrer sa production dans des délais imbattables.\n<br>\n<br>Au service d'une clientèle principalement répartie dans les industries forestière, minière et dans le secteur du transport, Hydrolico est en mesure de vous proposer un service juste-à temps. L'entreprise effectue également la vente, la réparation et la remise à neuf de vérins hydrauliques.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "header6",
-          "_anchor": "header6-2",
-          "_styles": {
-            "H3": {
-              "font-size": "32px"
             }
           }
         },
@@ -402,15 +339,16 @@
             "fontColor": "#2d2d2d",
             "fontHoverColor": "#2b4484"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">À PROPOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUITS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RÉPARATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONCEPTION/FABRICATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-info\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">À PROPOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUITS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">RÉPARATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"conception-fabrication.html\" aria-expanded=\"false\">CONCEPTION/FABRICATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-info\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/hydrolico-blanc-carre-189x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-hydrolico-horizontal-520x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -701,15 +639,16 @@
             "fontColor": "#2d2d2d",
             "fontHoverColor": "#2b4484"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">À PROPOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUITS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RÉPARATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONCEPTION/FABRICATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-info\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">À PROPOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRODUITS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">RÉPARATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"conception-fabrication.html\" aria-expanded=\"false\">CONCEPTION/FABRICATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-info\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/hydrolico-blanc-carre-189x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-hydrolico-horizontal-520x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -785,29 +724,17 @@
           "_inherit": "gallery1",
           "_params": {
             "showBullets": true,
-            "fullWidth": false,
-            "spacing": "2",
-            "paddingTop": "4",
+            "fullWidth": true,
+            "spacing": 0,
+            "paddingTop": 4,
             "paddingBottom": 4,
             "filterBgColor": false,
-            "bgColor": "#fffffd",
-            "showText": true,
+            "bgColor": "#fff",
+            "showText": false,
             "filter": false,
             "images": [
               {
-                "tags": "MÉCANIQUE INDUSTRIEL",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1281.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1920x1281-800x534.jpg",
-                "alt": "",
-                "title": "",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "caption": "<p><b>MÉCANIQUE INDUSTRIEL</b></p>",
-                "active": false
-              },
-              {
-                "tags": "MÉCANIQUE MOBILE",
+                "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -815,11 +742,11 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "<b>MÉCANIQUE MOBILE</b>",
-                "active": true
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "tags": "PNEUMATIQUE",
+                "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -827,11 +754,10 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "<b>PNEUMATIQUE</b>",
-                "active": false
+                "caption": "Type caption here"
               },
               {
-                "tags": "AUTOMATION",
+                "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -839,8 +765,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery03.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "<b>AUTOMATION</b>",
-                "active": false
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           },
@@ -850,9 +776,9 @@
           "articleLayout": false,
           "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
           "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
-          "allItem": "Tout",
-          "_name": "gallery3",
-          "_anchor": "gallery3-e"
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-f"
         }
       ]
     }

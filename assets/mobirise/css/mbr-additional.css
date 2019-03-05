@@ -1,9 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i);
-
-
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 
 
 
@@ -590,6 +589,18 @@ a:hover {
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 }
+#header4-1 {
+  
+  
+  
+}
+#header4-1 .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#header4-1 .mbr-table-cell {
+  vertical-align: middle;
+}
 #header4-1 .mbr-iconfont {
   color: undefined;
   border-color: undefined;
@@ -599,19 +610,17 @@ a:hover {
 }
 #header4-1 .heading-title {
   font-family: 'Raleway', sans-serif;
-  font-size: 60px;
+  font-size: 36px;
 }
 #header4-1 .heading-title B {
-  font-size: 80px;
+  font-size: 48px;
 }
 #header4-1 .heading-text {
   font-family: 'Oxygen', sans-serif;
 }
 #header4-1 .heading-text P {
-  font-size: 24px;
-}
-#header6-2 H3 {
-  font-size: 32px;
+  font-size: 22px;
+  font-family: 'Arimo', sans-serif;
 }
 #footer2-7 .footer-list {
   color: #b7b7b7;
