@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hydrolico Inc 2019",
-    "currentPage": "conception-fabrication.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -20,13 +20,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#163994",
+        "#2f62e5",
         "#ffffff",
         "#cbcbcb",
         "#8c8c8c",
         "#e8e8e8",
-        "#929292",
-        "#474e92",
-        "#828ad7"
+        "#929292"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -163,7 +163,7 @@
             "rows": "1",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
-            "paddingTop": "4",
+            "paddingTop": "1",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
@@ -222,10 +222,10 @@
             "showArrow": true,
             "imageSize": "38",
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/new-building-3d-1772x908.jpg",
-            "parallax": false,
+            "parallax": true,
             "bgColorRadio": false,
             "containerColor1": "#094587",
             "containerColor2": "#3adcdc",
@@ -388,7 +388,7 @@
             "rows": "1",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
-            "paddingTop": "4",
+            "paddingTop": "1",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
@@ -688,7 +688,7 @@
             "rows": "1",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
-            "paddingTop": "4",
+            "paddingTop": "1",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
@@ -1013,7 +1013,7 @@
             "rows": "1",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
-            "paddingTop": "4",
+            "paddingTop": "1",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
@@ -1103,7 +1103,7 @@
             "overlayOpacity": 0.95
           },
           "title": "PRENEZ CONTACT AVEC NOUS ...",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "text": "....",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
           "header": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, veniam?",
           "form": {
@@ -1133,7 +1133,7 @@
               }
             }
           },
-          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVOYER</a>",
+          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVOYER &nbsp;►</a>",
           "checkbox": "I agree to the <a href=\"http://mobirise.com\">terms</a>",
           "_tags": [
             "Thème"
@@ -1258,7 +1258,7 @@
             "rows": "1",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
-            "paddingTop": "4",
+            "paddingTop": "1",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
@@ -1451,9 +1451,9 @@
             "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "containerColor1": "#000000",
-            "containerColor2": "#424242",
-            "containerColor3": "#000000",
+            "containerColor1": "#2d2d2d",
+            "containerColor2": "#2d2d2d",
+            "containerColor3": "#2d2d2d",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
@@ -1487,7 +1487,7 @@
           "_name": "header7",
           "_styles": {
             "H3": {
-              "font-size": "36px"
+              "font-size": "22px"
             }
           },
           "_anchor": "header7-17"
@@ -1730,7 +1730,7 @@
             "rows": "1",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
-            "paddingTop": "4",
+            "paddingTop": "1",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
