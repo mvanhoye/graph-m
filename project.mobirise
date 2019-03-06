@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hydrolico Inc 2019",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1326,7 +1326,8 @@
             },
             ".card-title": {
               "text-align": "center",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "30px"
             },
             ".card-text": {
               "text-align": "left",
@@ -1376,7 +1377,7 @@
             "iconFont": {
               "class": "mbr-iconfont",
               "linkInNewWindow": false,
-              "name": "touch",
+              "name": "link",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -1392,8 +1393,8 @@
             "iconFont": {
               "class": "mbr-iconfont",
               "linkInNewWindow": false,
-              "name": "responsive",
-              "family": "MobiriseIcons",
+              "name": "target",
+              "family": "mobirise-icons-bold",
               "active": true,
               "link": "https://mobirise.com",
               "size": "30",
