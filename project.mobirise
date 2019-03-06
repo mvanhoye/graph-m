@@ -1528,6 +1528,9 @@
             },
             ".card-title": {
               "text-align": "left"
+            },
+            ".heading-title B": {
+              "font-size": "36px"
             }
           },
           "_params": {
