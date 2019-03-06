@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hydrolico Inc 2019",
-    "currentPage": "page5.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1083,7 +1083,7 @@
           "_params": {
             "showHeading": true,
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showCheckbox": false,
             "formBg": "#616161",
             "formHeader": false,
@@ -1103,7 +1103,7 @@
             "overlayOpacity": 0.95
           },
           "title": "PRENEZ CONTACT AVEC NOUS ...",
-          "text": "....",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
           "header": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, veniam?",
           "form": {
