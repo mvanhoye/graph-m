@@ -1325,7 +1325,7 @@
               "border-color": "#616161"
             },
             ".card-title": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#ffffff",
               "font-size": "30px"
             },
@@ -1341,7 +1341,7 @@
             }
           },
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "3",
             "showHeading": true,
             "showTitle": true,
