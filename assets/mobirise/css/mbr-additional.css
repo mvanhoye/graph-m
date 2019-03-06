@@ -1046,7 +1046,7 @@ a:hover {
   border-color: #616161;
 }
 #features4-16 .heading-text {
-  text-align: left;
+  text-align: center;
 }
 #features4-16 .heading-text B {
   font-size: 20px;
@@ -1059,6 +1059,13 @@ a:hover {
 }
 #features4-16 .heading-title B {
   font-size: 36px;
+}
+#features2-18 .mbr-iconfont {
+  color: #ffffff;
+  border-color: #ffffff;
+}
+#features2-18 .heading-title {
+  font-size: 30px;
 }
 #menu1-12 .hide-buttons .nav-btn {
   display: none !important;

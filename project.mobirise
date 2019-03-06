@@ -39,7 +39,7 @@
     "cookiesAlert": "",
     "gdpr": "",
     "сanonical-url": "",
-    "uniqCompNum": 44,
+    "uniqCompNum": 45,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png"
   },
@@ -164,7 +164,7 @@
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
             "paddingTop": "1",
-            "paddingBottom": "4",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -179,7 +179,7 @@
             "overlayOpacity": 0.4
           },
           "heading": "© 2019 - HYDROLICO Inc. - Tous droits réservés -&nbsp;",
-          "list1": "<a href=\"http://mobirise.com\" class=\"text-primary\">Boost your ranking</a>",
+          "list1": "",
           "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
           "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
           "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
@@ -389,7 +389,7 @@
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
             "paddingTop": "1",
-            "paddingBottom": "4",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -404,7 +404,7 @@
             "overlayOpacity": 0.4
           },
           "heading": "© 2019 - HYDROLICO Inc. - Tous droits réservés -&nbsp;",
-          "list1": "<a href=\"http://mobirise.com\" class=\"text-primary\">Boost your ranking</a>",
+          "list1": "",
           "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
           "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
           "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
@@ -689,7 +689,7 @@
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
             "paddingTop": "1",
-            "paddingBottom": "4",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -704,7 +704,7 @@
             "overlayOpacity": 0.4
           },
           "heading": "© 2019 - HYDROLICO Inc. - Tous droits réservés -&nbsp;",
-          "list1": "<a href=\"http://mobirise.com\" class=\"text-primary\">Boost your ranking</a>",
+          "list1": "",
           "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
           "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
           "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
@@ -1014,7 +1014,7 @@
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
             "paddingTop": "1",
-            "paddingBottom": "4",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -1029,7 +1029,7 @@
             "overlayOpacity": 0.4
           },
           "heading": "© 2019 - HYDROLICO Inc. - Tous droits réservés -&nbsp;",
-          "list1": "<a href=\"http://mobirise.com\" class=\"text-primary\">Boost your ranking</a>",
+          "list1": "",
           "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
           "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
           "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
@@ -1259,7 +1259,7 @@
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
             "paddingTop": "1",
-            "paddingBottom": "4",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -1274,7 +1274,7 @@
             "overlayOpacity": 0.4
           },
           "heading": "© 2019 - HYDROLICO Inc. - Tous droits réservés -&nbsp;",
-          "list1": "<a href=\"http://mobirise.com\" class=\"text-primary\">Boost your ranking</a>",
+          "list1": "",
           "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
           "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
           "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
@@ -1518,7 +1518,7 @@
               "border-color": "#616161"
             },
             ".heading-text": {
-              "text-align": "left"
+              "text-align": "center"
             },
             ".heading-text B": {
               "font-size": "20px"
@@ -1535,7 +1535,7 @@
           },
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": 2,
+            "paddingBottom": "1",
             "showHeading": true,
             "showTitle": true,
             "showText": true,
@@ -1547,10 +1547,10 @@
             "showFeaturesTitles": true,
             "showFeaturesTexts": true,
             "showFeaturesButtons": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/features4.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/features4.jpg",
             "parallax": false,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -1624,6 +1624,108 @@
           "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_name": "features4",
           "_anchor": "features4-16"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showHeading": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "left",
+            "columns": "2",
+            "showFeaturesImages": true,
+            "iconsBgColor": "@primaryColor",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          },
+          "title": "Responsables",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title1": "<span style=\"font-weight: normal;\">RÉPARATION </span><br>Mr Alain Goulet",
+          "subtitle1": "Awesome",
+          "text1": "Représentant technique et mécanique\n<br>450 628-6644 (288)\n<br>fadam@hydrolico.com",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title2": "<span style=\"font-weight: normal;\">CONCEPTION, ASSEMBLAGE</span> <span style=\"font-weight: normal;\">ET FABRICATION</span><br>Mr Ronald Lecours",
+          "subtitle2": "Awesome",
+          "text2": "Technicien spécialiste vérin\n<br>450 628-6644 (225)\n<br>rlecours@hydrolico.com",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "setting",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title3": "What is Mobirise",
+          "subtitle3": "Awesome",
+          "text3": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "features2",
+          "_anchor": "features2-18",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            ".heading-title": {
+              "font-size": "30px"
+            }
+          }
         },
         {
           "_styles": {
@@ -1735,7 +1837,7 @@
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
             "paddingTop": "1",
-            "paddingBottom": "4",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -1750,7 +1852,7 @@
             "overlayOpacity": 0.4
           },
           "heading": "© 2019 - HYDROLICO Inc. - Tous droits réservés -&nbsp;",
-          "list1": "<a href=\"http://mobirise.com\" class=\"text-primary\">Boost your ranking</a>",
+          "list1": "",
           "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
           "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
           "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
