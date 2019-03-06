@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hydrolico Inc 2019",
-    "currentPage": "page3.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1341,8 +1341,8 @@
             }
           },
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingTop": "2",
+            "paddingBottom": "4",
             "showHeading": true,
             "showTitle": true,
             "showText": true,
@@ -1387,7 +1387,7 @@
           },
           "title1": "HYDRAULIQUE",
           "subtitle1": "Awesome",
-          "text1": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "text1": "<p>•&nbsp;&nbsp;&nbsp;&nbsp;Cylindres hydrauliques<br>•&nbsp;&nbsp;&nbsp;&nbsp;Moteurs<br>•&nbsp;&nbsp;&nbsp;&nbsp;Unité de puissance<br>•&nbsp; &nbsp; Moteurs électriques<br>•&nbsp; &nbsp; Pompes<br>•&nbsp; &nbsp; Valves<br>• &nbsp; &nbsp;Diviseurs<br>•&nbsp; &nbsp; Accumulateurs<br>•&nbsp; &nbsp; Filtres<br>•&nbsp; &nbsp; Accessoroires<br>•&nbsp; &nbsp; Réservoirs<br><br></p>",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
@@ -1403,7 +1403,7 @@
           },
           "title2": "PNEUMATIQUE",
           "subtitle2": "Awesome",
-          "text2": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "text2": "<p>•&nbsp;&nbsp;&nbsp;&nbsp;Cylindres<br>•&nbsp; &nbsp; Valves mécaniques<br>•&nbsp; &nbsp; Valves directionelles<br></p>",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media3": {
             "iconFont": {
