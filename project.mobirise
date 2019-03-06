@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hydrolico Inc 2019",
-    "currentPage": "page2.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1795,9 +1795,9 @@
             "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "containerColor1": "#000000",
-            "containerColor2": "#424242",
-            "containerColor3": "#000000",
+            "containerColor1": "#2d2d2d",
+            "containerColor2": "#2d2d2d",
+            "containerColor3": "#2d2d2d",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
