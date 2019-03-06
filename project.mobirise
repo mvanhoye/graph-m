@@ -1355,7 +1355,7 @@
             "showFeaturesTexts": true,
             "showFeaturesButtons": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1440.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cylindres-hydrauliques-1920x685.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -1365,7 +1365,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0"
           },
           "_tags": [
             "Thème"
