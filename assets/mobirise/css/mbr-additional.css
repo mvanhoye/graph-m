@@ -704,6 +704,14 @@ a:hover {
   font-size: 20px;
   font-family: 'Oxygen', sans-serif;
 }
+#header7-1u H3 {
+  font-size: 23px;
+  color: #2d2d2d;
+  text-align: left;
+}
+#header7-1u P {
+  font-size: 14px;
+}
 #footer2-a .footer-list {
   color: #b7b7b7;
 }
@@ -803,8 +811,13 @@ a:hover {
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 }
-#header7-1n H3 {
-  font-size: 22px;
+#header7-1t H3 {
+  font-size: 23px;
+  color: #2d2d2d;
+  text-align: left;
+}
+#header7-1t P {
+  font-size: 14px;
 }
 #footer2-d .footer-list {
   color: #b7b7b7;
@@ -1038,8 +1051,13 @@ a:hover {
 #features4-z .card-text P {
   text-align: left;
 }
-#header7-1p H3 {
-  font-size: 22px;
+#header7-1s H3 {
+  font-size: 23px;
+  color: #2d2d2d;
+  text-align: left;
+}
+#header7-1s P {
+  font-size: 14px;
 }
 
 

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hydrolico Inc 2019",
-    "currentPage": "page5.html",
+    "currentPage": "conception-fabrication.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -39,7 +39,7 @@
     "cookiesAlert": "",
     "gdpr": "",
     "сanonical-url": "",
-    "uniqCompNum": 64,
+    "uniqCompNum": 67,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png"
   },
@@ -502,6 +502,66 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "showArrow": false,
+            "imageSize": "57",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#fffffd",
+            "containerColor2": "#fffffd",
+            "containerColor3": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.8
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/logos-site-web-hydolico-inc-570x200.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Distributeurs autorisés",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "header7",
+          "_styles": {
+            "H3": {
+              "font-size": "23px",
+              "color": "#2d2d2d",
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "header7-1u"
+        },
+        {
+          "_params": {
             "showIcons": true,
             "rows": "1",
             "listColor": "#b7b7b7",
@@ -791,15 +851,15 @@
             "inverse": true,
             "showArrow": false,
             "imageSize": "57",
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "containerColor1": "#2d2d2d",
-            "containerColor2": "#2d2d2d",
-            "containerColor3": "#2d2d2d",
+            "containerColor1": "#fffffd",
+            "containerColor2": "#fffffd",
+            "containerColor3": "#fffffd",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
@@ -812,7 +872,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/brand-logos-1400x186.png",
+              "src": "@PROJECT_PATH@/assets/images/logos-site-web-hydolico-inc-570x200.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -833,10 +893,15 @@
           "_name": "header7",
           "_styles": {
             "H3": {
-              "font-size": "22px"
+              "font-size": "23px",
+              "color": "#2d2d2d",
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "14px"
             }
           },
-          "_anchor": "header7-1n"
+          "_anchor": "header7-1t"
         },
         {
           "_params": {
@@ -1447,15 +1512,15 @@
             "inverse": true,
             "showArrow": false,
             "imageSize": "57",
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "containerColor1": "#2d2d2d",
-            "containerColor2": "#2d2d2d",
-            "containerColor3": "#2d2d2d",
+            "containerColor1": "#fffffd",
+            "containerColor2": "#fffffd",
+            "containerColor3": "#fffffd",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
@@ -1468,7 +1533,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/brand-logos-1400x186.png",
+              "src": "@PROJECT_PATH@/assets/images/logos-site-web-hydolico-inc-570x200.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1489,10 +1554,15 @@
           "_name": "header7",
           "_styles": {
             "H3": {
-              "font-size": "22px"
+              "font-size": "23px",
+              "color": "#2d2d2d",
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "14px"
             }
           },
-          "_anchor": "header7-1p"
+          "_anchor": "header7-1s"
         }
       ]
     },
