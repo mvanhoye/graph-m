@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hydrolico Inc 2019",
-    "currentPage": "conception-fabrication.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -39,7 +39,7 @@
     "cookiesAlert": "",
     "gdpr": "",
     "сanonical-url": "",
-    "uniqCompNum": 67,
+    "uniqCompNum": 69,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png"
   },
@@ -1413,7 +1413,7 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "contentAlign": "center",
+            "contentAlign": "left",
             "columns": "2",
             "showFeaturesImages": true,
             "iconsBgColor": "#616161",
@@ -1771,7 +1771,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": "50",
-              "color": "#3858ad"
+              "color": "#424242"
             }
           },
           "title1": "RÉPARATION",
@@ -1787,7 +1787,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": "50",
-              "color": "#3858ad"
+              "color": "#424242"
             }
           },
           "title2": "CONCEPTION, ASSEMBLAGE ET FABRICATION",
