@@ -387,7 +387,7 @@
         {
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": 1,
+            "paddingBottom": "4",
             "showHeading": true,
             "showTitle": true,
             "showText": true,
