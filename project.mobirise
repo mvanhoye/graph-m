@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hydrolico Inc 2019",
-    "currentPage": "page2.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1342,8 +1342,8 @@
             }
           },
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "4",
+            "paddingTop": "4",
+            "paddingBottom": "3",
             "showHeading": true,
             "showTitle": true,
             "showText": true,
@@ -1356,7 +1356,7 @@
             "showFeaturesTexts": true,
             "showFeaturesButtons": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cylindres-hydrauliques-1920x685.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/20181204-143232-2000x972.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -1366,7 +1366,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0"
+            "overlayOpacity": "0.6"
           },
           "_tags": [
             "Thème"
@@ -1388,7 +1388,7 @@
           },
           "title1": "HYDRAULIQUE",
           "subtitle1": "Awesome",
-          "text1": "<p>•&nbsp;&nbsp;&nbsp;&nbsp;Cylindres hydrauliques<br>•&nbsp;&nbsp;&nbsp;&nbsp;Moteurs<br>•&nbsp;&nbsp;&nbsp;&nbsp;Unité de puissance<br>•&nbsp; &nbsp; Moteurs électriques<br>•&nbsp; &nbsp; Pompes<br><br></p>",
+          "text1": "<p>•&nbsp;&nbsp;&nbsp;&nbsp;Cylindres hydrauliques\n<br>•&nbsp;&nbsp;&nbsp;&nbsp;Moteurs\n<br>•&nbsp;&nbsp;&nbsp;&nbsp;Unité de puissance\n<br>•&nbsp;&nbsp;&nbsp;&nbsp;Moteurs électriques\n<br>•&nbsp;&nbsp;&nbsp;&nbsp;Pompes</p>",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
@@ -1404,7 +1404,7 @@
           },
           "title2": "PNEUMATIQUE",
           "subtitle2": "Awesome",
-          "text2": "<p>•&nbsp;&nbsp;&nbsp;&nbsp;Cylindres<br>•&nbsp; &nbsp; Valves mécaniques<br>•&nbsp; &nbsp; Valves directionelles<br></p>",
+          "text2": "<p>• &nbsp;&nbsp;&nbsp;&nbsp;   Cylindres\n<br>• &nbsp;&nbsp;&nbsp;&nbsp;   Valves mécaniques\n<br>• &nbsp;&nbsp;&nbsp;&nbsp;   Valves directionelles</p>",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media3": {
             "iconFont": {
