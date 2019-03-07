@@ -721,9 +721,18 @@ a:hover {
 }
 
 
-#content3-1k .mbr-section-title,
-#content3-1k .mbr-section-subtitle {
-  text-align: center;
+#features21-1r .card .mbr-iconfont {
+  background: #ffffff;
+  border-color: #ffffff;
+}
+#features21-1r .mbr-table-cell {
+  vertical-align: middle;
+}
+#features21-1r .heading-title {
+  text-align: left;
+}
+#features21-1r .card-title {
+  font-size: 48px;
 }
 #menu1-c .hide-buttons .nav-btn {
   display: none !important;
