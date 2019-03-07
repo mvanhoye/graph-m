@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hydrolico Inc 2019",
-    "currentPage": "page3.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -20,13 +20,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#222222",
         "#3858ad",
         "#232323",
         "#163994",
         "#2f62e5",
         "#ffffff",
-        "#cbcbcb",
-        "#8c8c8c"
+        "#cbcbcb"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -39,7 +39,7 @@
     "cookiesAlert": "",
     "gdpr": "",
     "сanonical-url": "",
-    "uniqCompNum": 72,
+    "uniqCompNum": 76,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png"
   },
@@ -1842,6 +1842,125 @@
             ".heading-text": {
               "color": "#ffffff",
               "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgicon": true,
+            "showHeading": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "center",
+            "columns": "2",
+            "iconsBgColor": "#fffffd",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#ffffff",
+            "containerColor2": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#616161",
+            "overlayOpacity": 0.8
+          },
+          "bgicon": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "website-theme",
+              "link": "https://mobirise.com",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title": "Coordonnées",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-lg btn-empty\" href=\"https://mobirise.com\">Or view demo</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "device-access-time",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "color": "#424242"
+            }
+          },
+          "title1": "<b>Horaire</b>",
+          "subtitle1": "Awesome",
+          "text1": "Lundi au vendredi\n<br>7h à 17h et fin de semaine sur demande",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "Mobirise2",
+              "active": true,
+              "link": "https://mobirise.com",
+              "color": "#424242"
+            }
+          },
+          "title2": "<b>Adresse</b>",
+          "subtitle2": "Awesome",
+          "text2": "55, Théodore-Viau, <br>Terebonne (Qc) J6Y 0J8",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title3": "What is Mobirise",
+          "subtitle3": "Awesome",
+          "text3": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch-swipe",
+              "link": "https://mobirise.com",
+              "color": "#222",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "features21",
+          "_anchor": "features21-23",
+          "_styles": {
+            ".card .mbr-iconfont": {
+              "background": "#fffffd",
+              "border-color": "#fffffd"
+            },
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".card-text": {
+              "text-align": "left"
+            },
+            ".card-title B": {
+              "font-size": "24px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         },

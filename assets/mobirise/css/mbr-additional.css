@@ -1064,6 +1064,7 @@ a:hover {
 }
 
 
+
 #menu1-12 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1159,6 +1160,20 @@ a:hover {
 #features2-1o .heading-text {
   color: #ffffff;
   text-align: left;
+}
+#features21-23 .card .mbr-iconfont {
+  background: #fffffd;
+  border-color: #fffffd;
+}
+#features21-23 .mbr-table-cell {
+  vertical-align: middle;
+}
+#features21-23 .card-text {
+  text-align: left;
+}
+#features21-23 .card-title B {
+  font-size: 24px;
+  font-family: 'Oxygen', sans-serif;
 }
 #header7-15 H3 {
   font-size: 23px;
