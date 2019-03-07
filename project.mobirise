@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hydrolico Inc 2019",
-    "currentPage": "page4.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -159,12 +159,12 @@
         },
         {
           "_params": {
-            "showIcons": false,
+            "showIcons": true,
             "rows": "1",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -502,12 +502,12 @@
         },
         {
           "_params": {
-            "showIcons": false,
+            "showIcons": true,
             "rows": "1",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -840,12 +840,12 @@
         },
         {
           "_params": {
-            "showIcons": false,
+            "showIcons": true,
             "rows": "1",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -1007,12 +1007,12 @@
         },
         {
           "_params": {
-            "showIcons": false,
+            "showIcons": true,
             "rows": "1",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -1252,12 +1252,12 @@
         },
         {
           "_params": {
-            "showIcons": false,
+            "showIcons": true,
             "rows": "1",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -1388,7 +1388,7 @@
           },
           "title1": "HYDRAULIQUE",
           "subtitle1": "Awesome",
-          "text1": "<p>•&nbsp;&nbsp;&nbsp;&nbsp;Cylindres hydrauliques\n<br>•&nbsp;&nbsp;&nbsp;&nbsp;Moteurs\n<br>•&nbsp;&nbsp;&nbsp;&nbsp;Unité de puissance\n<br>•&nbsp;&nbsp;&nbsp;&nbsp;Moteurs électriques\n<br>•&nbsp;&nbsp;&nbsp;&nbsp;Pompes</p>",
+          "text1": "<p>• &nbsp;Cylindres hydrauliques\n<br>• &nbsp;Moteurs\n<br>• &nbsp;Unité de puissance\n<br>• &nbsp;Moteurs électriques\n<br>• &nbsp;Pompes</p>",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
@@ -1404,7 +1404,7 @@
           },
           "title2": "PNEUMATIQUE",
           "subtitle2": "Awesome",
-          "text2": "<p>• &nbsp;&nbsp;&nbsp;&nbsp;   Cylindres\n<br>• &nbsp;&nbsp;&nbsp;&nbsp;   Valves mécaniques\n<br>• &nbsp;&nbsp;&nbsp;&nbsp;   Valves directionelles</p>",
+          "text2": "<p>• &nbsp;Cylindres\n<br>• &nbsp;Valves mécaniques\n<br>• &nbsp;Valves directionelles</p>",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media3": {
             "iconFont": {
@@ -1607,12 +1607,12 @@
         },
         {
           "_params": {
-            "showIcons": false,
+            "showIcons": true,
             "rows": "1",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -1786,9 +1786,9 @@
             "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "containerColor1": "#2d2d2d",
-            "containerColor2": "#2d2d2d",
-            "containerColor3": "#2d2d2d",
+            "containerColor1": "#fffffd",
+            "containerColor2": "#fffffd",
+            "containerColor3": "#fffffd",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
@@ -1801,7 +1801,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/brand-logos-1400x186.png",
+              "src": "@PROJECT_PATH@/assets/images/logos-site-web-hydolico-inc-570x200.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1823,7 +1823,8 @@
           "_anchor": "header7-15",
           "_styles": {
             "H3": {
-              "font-size": "23px"
+              "font-size": "23px",
+              "color": "#2d2d2d"
             },
             "P": {
               "font-size": "14px"
@@ -1943,12 +1944,12 @@
         },
         {
           "_params": {
-            "showIcons": false,
+            "showIcons": true,
             "rows": "1",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
