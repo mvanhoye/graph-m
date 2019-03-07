@@ -1667,10 +1667,12 @@
               "border-color": "@primaryColor"
             },
             ".heading-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             },
             ".heading-text": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             }
           }
         },

@@ -1124,9 +1124,11 @@ a:hover {
 }
 #features2-1o .heading-title {
   color: #ffffff;
+  text-align: left;
 }
 #features2-1o .heading-text {
   color: #ffffff;
+  text-align: left;
 }
 #header7-15 H3 {
   font-size: 23px;
