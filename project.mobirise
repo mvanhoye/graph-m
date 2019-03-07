@@ -1346,7 +1346,7 @@
             "paddingBottom": "3",
             "showHeading": true,
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "contentAlign": "center",
             "columns": "2",
