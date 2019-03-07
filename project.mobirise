@@ -39,7 +39,7 @@
     "cookiesAlert": "",
     "gdpr": "",
     "сanonical-url": "",
-    "uniqCompNum": 71,
+    "uniqCompNum": 72,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png"
   },
@@ -1072,21 +1072,6 @@
         },
         {
           "_params": {
-            "googleMap": {
-              "address": "55, Théodore-Viau\nTerebonne",
-              "placeId": "ChIJtZnVaTvZyEwRunJONq0-p6s",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-1y"
-        },
-        {
-          "_params": {
             "showIcons": true,
             "rows": "1",
             "listColor": "#b7b7b7",
@@ -1156,6 +1141,9 @@
             },
             ".heading": {
               "background": "#616161"
+            },
+            ".heading-title": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -1180,7 +1168,7 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": 0.95
           },
-          "title": "PRENEZ CONTACT AVEC NOUS ...",
+          "title": "PRENEZ CONTACT SANS PLUS TARDER",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
           "header": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, veniam?",

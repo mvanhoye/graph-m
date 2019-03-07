@@ -934,6 +934,9 @@ a:hover {
 #form3-r .heading {
   background: #616161;
 }
+#form3-r .heading-title {
+  text-align: center;
+}
 
 
 #menu1-s .hide-buttons .nav-btn {
