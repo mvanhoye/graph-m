@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hydrolico Inc 2019",
-    "currentPage": "page5.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -39,7 +39,7 @@
     "cookiesAlert": "",
     "gdpr": "",
     "сanonical-url": "",
-    "uniqCompNum": 69,
+    "uniqCompNum": 71,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png"
   },
@@ -1069,6 +1069,21 @@
           ],
           "_name": "menu1",
           "_anchor": "menu1-p"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "55, Théodore-Viau\nTerebonne",
+              "placeId": "ChIJtZnVaTvZyEwRunJONq0-p6s",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-1y"
         },
         {
           "_params": {
