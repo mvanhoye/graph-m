@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Hydrolico Inc 2019",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -39,7 +39,7 @@
     "cookiesAlert": "",
     "gdpr": "",
     "сanonical-url": "",
-    "uniqCompNum": 77,
+    "uniqCompNum": 88,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png"
   },
@@ -47,7 +47,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "HOME",
+        "title": "ACCUEIL",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -159,62 +159,6 @@
         },
         {
           "_params": {
-            "showIcons": true,
-            "rows": "1",
-            "listColor": "#b7b7b7",
-            "btnColor": "#e8e8e8",
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#2d2d2d",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.4
-          },
-          "heading": "© 2019 - HYDROLICO Inc. - Tous droits réservés -&nbsp;",
-          "list1": "",
-          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
-          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
-          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
-          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
-          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "footer2",
-          "_anchor": "footer2-7",
-          "_styles": {
-            ".footer-list": {
-              "color": "#b7b7b7"
-            },
-            ".btn-social": {
-              "border-color": "#e8e8e8",
-              "color": "#e8e8e8"
-            },
-            ".btn-social:hover": {
-              "background": "#e8e8e8",
-              "color": "#fff"
-            },
-            ".footer-header": {
-              "color": "#fffffd",
-              "font-size": "18px"
-            }
-          }
-        },
-        {
-          "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
@@ -261,17 +205,25 @@
           ],
           "_name": "header6",
           "_anchor": "header6-m",
-          "_styles": {
-            "H3": {
-              "font-size": "48px",
-              "text-align": "left",
-              "color": "#ffffff"
-            },
-            "P": {
-              "text-align": "left",
-              "color": "#ffffff"
-            }
-          }
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero header3 header6 mbr-parallax-background mbr-after-navbar\" data-rv-view=\"5\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/new-building-3d-1772x908.jpg&quot;); padding-top: 200px; padding-bottom: 150px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.4; background-color: rgb(0, 0, 0);\">\n    </div>\n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"row\">\n                    <div class=\"mbr-table-md-up\">\n                        \n                        \n                        \n\n                        <div class=\"mbr-table-cell mbr-right-padding-md-up col-md-5 text-xs-center text-md-right\">\n\n                            <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"25\">Bienvenue chez <br><strong>Hydrolico Inc.</strong></h3>\n\n                            <div class=\"mbr-section-text\">\n                                <p class=\"mbr-editable-content\" code-editable-id=\"26\">Hydrolico, depuis 1994, est un fabricant et distributeur de vérins hydrauliques sur mesure et d’unités de puissance. Hydrolico se démarque autant par la qualité de ses produits que par sa capacité à livrer dans des délais imbattables. Hydrolico s'est taillé une place enviable dans un marché hautement concurrentiel. Hydrolico est en mesure de vous proposer un service de qualité en effectuant la réparation et la remise à neuf de vérins hydrauliques ainsi que de pompes, de moteurs, de valves et plusieurs autres composantes hydrauliques. De plus, Hydrolico est distributeur d’une vaste gamme de produits utilitaires. Au service d'une clientèle principalement répartie dans les industries forestière, minière et dans le secteur du transport, Hydrolico est en mesure de vous proposer un service juste-à temps. L'entreprise effectue également la vente, la réparation et la remise à neuf de vérins hydrauliques. \n<br>\n<br>\n<br>• Cylindres sur mesure \n<br>• Unités de puissance \n<br>• Systèmes hydrauliques \n<br>• Pompes à débit fixe et variable \n<br>• Valves mobiles et industrielles \n<br>\n<br>Chez Hydrolico, le service et la qualité passent avant tout.</p>\n                            </div>\n\n                            \n\n                        </div>\n                        <div class=\"mbr-table-cell mbr-valign-top col-md-7 image-size\" style=\"width: 38%;\">\n                            \n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#next\"><i class=\"mbri-down\"></i></a></div>\n\n</div></section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "H3 {\n  font-size: 48px;\n  text-align: left;\n  color: #ffffff;\n}\nP {\n  text-align: left;\n  color: #ffffff;\n}\n",
+          "_customTemplate": true
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "\n\n\n<meta charset=\"utf-8\">\n<title>Bande-logos</title>\n<link href=\"logos.css\" rel=\"stylesheet\" type=\"text/css\">\n\n\n<div class=\"distributeurs\">Distributeurs autorisés:</div>\n\t<div class=\"logos\">\n\t<a href=\"file:C:\\Users\\micvan\\Desktop\\LOGOS - CLIC\\hydro-custom.jpg\"><img src=\"hydro-custom.jpg\" width=\"80\" height=\"57\" alt=\"hydro-custom\"></a>\n\t<a href=\"salami.jpg\"><img src=\"salami.jpg\" width=\"80\" height=\"57\" alt=\"salami\"></a>\n\t<a href=\"winner.jpg\"><img src=\"winner.jpg\" width=\"80\" height=\"57\" alt=\"winner\"></a>\n\t<a href=\"emc.jpg\"><img src=\"emc.jpg\" width=\"80\" height=\"57\" alt=\"emc\"></a>\n\t<a href=\"delta.jpg\"><img src=\"delta.jpg\" width=\"80\" height=\"57\" alt=\"delta\"></a>\n\t<a href=\"hydro-leduc.jpg\"><img src=\"hydro-leduc.jpg\" width=\"80\" height=\"57\" alt=\"hydro=leduc\"></a>\n\t<a href=\"Prince.jpg\"><img src=\"Prince.jpg\" width=\"80\" height=\"57\" alt=\"prince\"></a>\n\t<a href=\"brevini.jpg\"><img src=\"brevini.jpg\" width=\"80\" height=\"57\" alt=\"brevini\"></a>\n\t<a href=\"technord.jpg\"><img src=\"technord.jpg\" width=\"80\" height=\"57\" alt=\"technord\"></a>\n\t</div>\n\n\n\n\n\n\n",
+          "_customCSS": "@charset \"utf-8\";\n.logos {\n    text-align: center;\n\tmargin-top: 5px; \n}\n.distributeurs {\n\ttext-align: center;\n\tfont-family:Gotham, \"Helvetica Neue\", Helvetica;\n\tfont-size: 16px;\n}\n\n",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-2e",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     },
@@ -563,11 +515,11 @@
         {
           "_params": {
             "showIcons": true,
-            "rows": "1",
+            "rows": "6",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -582,13 +534,13 @@
             "overlayOpacity": 0.4
           },
           "heading": "© 2019 - HYDROLICO Inc. - Tous droits réservés -&nbsp;",
-          "list1": "",
-          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
-          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list1": "• &nbsp; &nbsp; &nbsp; <a href=\"page6.html\">À PROPOS</a>",
+          "list2": "<a href=\"page4.html\">PRODUITS</a>",
+          "list3": "<a href=\"page5.html\">SERVICES</a>",
+          "list4": "<a href=\"page2.html\">RÉPARATIONS</a>",
+          "list5": "<a href=\"conception-fabrication.html\">CONCEPTION / FABRICATION</a>",
+          "list6": "<a href=\"page3.html\">CONTACT&nbsp;</a>",
+          "list7": "• &nbsp; &nbsp; &nbsp;EMPLOIS",
           "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
           "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
           "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
@@ -612,6 +564,13 @@
             ".footer-header": {
               "color": "#fffffd",
               "font-size": "18px"
+            },
+            "LI": {
+              "color": "#fffffd",
+              "font-size": "12px"
+            },
+            "A": {
+              "color": "#fffffd"
             }
           },
           "_anchor": "footer2-a"
@@ -675,7 +634,7 @@
           },
           "title1": "RÉPARATIONS",
           "subtitle1": "Awesome",
-          "text1": "Notre service de réparation, de modification et d’installation\njumelé à la capacité d’offrir plusieurs grandes marques de\n<br>produits complémentaires comme distributeur autorisé\nfont de nous un arrêt incontournable pour tous vos besoins\n<br>en hydraulique et pneumatique.\n<br><br>Ingénierie sur mesure\n&amp; procédés de fabrication\n<br>Quels que soient vos besoins, notre équipe d’ingénieurs et\nde techniciens expérimentés sauront sélectionner les\n<br>composantes et les systèmes adaptés à vos besoins. Nous\nsommes à l’écoute de nos clients afin de vous offrir des\nsolutions innovantes.",
+          "text1": "Notre service de réparation, de modification et d’installation\njumelé à la capacité d’offrir plusieurs grandes marques de\n<br>produits complémentaires comme distributeur autorisé\nfont de nous un arrêt incontournable pour tous vos besoins\n<br>en hydraulique et pneumatique.\n<br><br>Ingénierie sur mesure\n&amp; procédés de fabrication\n<br>Quels que soient vos besoins, notre équipe d’ingénieurs et\nde techniciens expérimentés sauront sélectionner les\n<br>composantes et les systèmes adaptés à vos besoins. Nous\nsommes à l’écoute de nos clients afin de vous offrir des\nsolutions innovantes.<br><br>Parlez-nous de vos projets et problèmes hydrauliques &amp; pneumatiques. Notre équipe expérimentée ainsi que notre service d’ingénierie connexe, travaillera à l’unisson pour soutenir les besoins de votre application. Les toutes nouvelles installations d’Hydrolico Inc. offrent tous les services sous un même toit ; test &amp; inspection, réparer, remplacer des pièces, une usine avec des machines-outils d’usinage et d’assemblage à la fine pointe.<br>",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
@@ -906,11 +865,11 @@
         {
           "_params": {
             "showIcons": true,
-            "rows": "1",
+            "rows": "6",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -925,13 +884,13 @@
             "overlayOpacity": 0.4
           },
           "heading": "© 2019 - HYDROLICO Inc. - Tous droits réservés -&nbsp;",
-          "list1": "",
-          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
-          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list1": "• &nbsp; &nbsp; &nbsp; <a href=\"page6.html\">À PROPOS</a>",
+          "list2": "<a href=\"page4.html\">PRODUITS</a>",
+          "list3": "<a href=\"page5.html\">SERVICES</a>",
+          "list4": "<a href=\"page2.html\">RÉPARATIONS</a>",
+          "list5": "<a href=\"conception-fabrication.html\">CONCEPTION / FABRICATION</a>",
+          "list6": "<a href=\"page3.html\">CONTACT&nbsp;</a>",
+          "list7": "• &nbsp; &nbsp; &nbsp;EMPLOIS",
           "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
           "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
           "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
@@ -955,6 +914,13 @@
             ".footer-header": {
               "color": "#fffffd",
               "font-size": "18px"
+            },
+            "LI": {
+              "color": "#fffffd",
+              "font-size": "12px"
+            },
+            "A": {
+              "color": "#fffffd"
             }
           },
           "_anchor": "footer2-d"
@@ -1073,11 +1039,11 @@
         {
           "_params": {
             "showIcons": true,
-            "rows": "1",
+            "rows": "6",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -1092,13 +1058,13 @@
             "overlayOpacity": 0.4
           },
           "heading": "© 2019 - HYDROLICO Inc. - Tous droits réservés -&nbsp;",
-          "list1": "",
-          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
-          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list1": "• &nbsp; &nbsp; &nbsp; <a href=\"page6.html\">À PROPOS</a>",
+          "list2": "<a href=\"page4.html\">PRODUITS</a>",
+          "list3": "<a href=\"page5.html\">SERVICES</a>",
+          "list4": "<a href=\"page2.html\">RÉPARATIONS</a>",
+          "list5": "<a href=\"conception-fabrication.html\">CONCEPTION / FABRICATION</a>",
+          "list6": "<a href=\"page3.html\">CONTACT&nbsp;</a>",
+          "list7": "• &nbsp; &nbsp; &nbsp;EMPLOIS",
           "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
           "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
           "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
@@ -1122,6 +1088,13 @@
             ".footer-header": {
               "color": "#fffffd",
               "font-size": "18px"
+            },
+            "LI": {
+              "color": "#fffffd",
+              "font-size": "12px"
+            },
+            "A": {
+              "color": "#fffffd"
             }
           },
           "_anchor": "footer2-q"
@@ -1321,11 +1294,11 @@
         {
           "_params": {
             "showIcons": true,
-            "rows": "1",
+            "rows": "6",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -1340,13 +1313,13 @@
             "overlayOpacity": 0.4
           },
           "heading": "© 2019 - HYDROLICO Inc. - Tous droits réservés -&nbsp;",
-          "list1": "",
-          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
-          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list1": "• &nbsp; &nbsp; &nbsp; <a href=\"page6.html\">À PROPOS</a>",
+          "list2": "<a href=\"page4.html\">PRODUITS</a>",
+          "list3": "<a href=\"page5.html\">SERVICES</a>",
+          "list4": "<a href=\"page2.html\">RÉPARATIONS</a>",
+          "list5": "<a href=\"conception-fabrication.html\">CONCEPTION / FABRICATION</a>",
+          "list6": "<a href=\"page3.html\">CONTACT&nbsp;</a>",
+          "list7": "• &nbsp; &nbsp; &nbsp;EMPLOIS",
           "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
           "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
           "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
@@ -1370,6 +1343,13 @@
             ".footer-header": {
               "color": "#fffffd",
               "font-size": "18px"
+            },
+            "LI": {
+              "color": "#fffffd",
+              "font-size": "12px"
+            },
+            "A": {
+              "color": "#fffffd"
             }
           },
           "_anchor": "footer2-t"
@@ -1400,10 +1380,12 @@
               "color": "#ffffff"
             },
             ".heading-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             },
             ".heading-text": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             },
             ".card-text P": {
               "text-align": "left"
@@ -1411,10 +1393,10 @@
           },
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "showHeading": true,
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "contentAlign": "left",
             "columns": "2",
@@ -1424,7 +1406,7 @@
             "showFeaturesTexts": true,
             "showFeaturesButtons": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20181204-143232-2000x972.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/20181204-143233-2000x972.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -1439,8 +1421,8 @@
           "_tags": [
             "Thème"
           ],
-          "title": "Catégories de produits",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "title": "Produits",
+          "text": "Pour les pieces, les composantes ou des solutions de produits hydraulique et pneumatique complète, Hydrolico Inc., devient votre guichet unique. Avec un accès direct à l’une des plus vastes inventaires au canada, Hydrolico Inc. devient la source pour une solution rapide au problème d’approvisionnement, tout en pouvant aussi répondre aux demandes pour d’autres marques populaires sur le marché. Faite d’hydrolico Inc votre allier pour tous vos besoins en hydraulique et pneumatique.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
           "media1": {
             "iconFont": {
@@ -1508,64 +1490,18 @@
           "_anchor": "features4-z"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": true,
-            "showArrow": false,
-            "imageSize": "57",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "containerColor1": "#fffffd",
-            "containerColor2": "#fffffd",
-            "containerColor3": "#fffffd",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.8
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logos-site-web-hydolico-inc-570x200.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "Distributeurs autorisés",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "\n\n\n<meta charset=\"utf-8\">\n<title>Bande-logos</title>\n<link href=\"file:///C|/Users/micvan/Desktop/LOGOS - CLIC/logos.css\" rel=\"stylesheet\" type=\"text/css\">\n\n\n<div class=\"distributeurs\">Distributeurs autorisés:</div>\n<div class=\"logos\">\n\t<img src=\"@PROJECT_PATH@/assets/images/salami13.jpg\" width=\"75\" height=\"53\" alt=\"\">\n\t<img src=\"@PROJECT_PATH@/assets/images/winner14.jpg\" width=\"75\" height=\"53\" alt=\"\">\n\t<img src=\"@PROJECT_PATH@/assets/images/emc15.jpg\" width=\"75\" height=\"53\" alt=\"\"><img src=\"@PROJECT_PATH@/assets/images/delta-power.jpg\" width=\"75\" height=\"53\" alt=\"\">\n</div>\n\n\n",
+          "_customCSS": "@charset \"utf-8\";\n.logos {\n    text-align: center;\n    margin-top: 0px;\n}\n.distributeurs {\n    margin-top:10px;\n\ttext-align: center;\n\tfont-family:Gotham, \"Helvetica Neue\", Helvetica;\n\tfont-size: 16px;\n}\n\n",
+          "alias": "code-editor",
           "_tags": [
-            "Thème"
+            "Extension"
           ],
-          "_name": "header7",
-          "_styles": {
-            "H3": {
-              "font-size": "23px",
-              "color": "#2d2d2d",
-              "text-align": "left"
-            },
-            "P": {
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "header7-1s"
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-2c",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     },
@@ -1681,11 +1617,11 @@
         {
           "_params": {
             "showIcons": true,
-            "rows": "1",
+            "rows": "6",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -1700,13 +1636,13 @@
             "overlayOpacity": 0.4
           },
           "heading": "© 2019 - HYDROLICO Inc. - Tous droits réservés -&nbsp;",
-          "list1": "",
-          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
-          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list1": "• &nbsp; &nbsp; &nbsp; <a href=\"page6.html\">À PROPOS</a>",
+          "list2": "<a href=\"page4.html\">PRODUITS</a>",
+          "list3": "<a href=\"page5.html\">SERVICES</a>",
+          "list4": "<a href=\"page2.html\">RÉPARATIONS</a>",
+          "list5": "<a href=\"conception-fabrication.html\">CONCEPTION / FABRICATION</a>",
+          "list6": "<a href=\"page3.html\">CONTACT&nbsp;</a>",
+          "list7": "• &nbsp; &nbsp; &nbsp;EMPLOIS",
           "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
           "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
           "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
@@ -1730,6 +1666,13 @@
             ".footer-header": {
               "color": "#fffffd",
               "font-size": "18px"
+            },
+            "LI": {
+              "color": "#fffffd",
+              "font-size": "12px"
+            },
+            "A": {
+              "color": "#fffffd"
             }
           },
           "_anchor": "footer2-13"
@@ -1745,7 +1688,7 @@
             "contentAlign": "left",
             "columns": "2",
             "showFeaturesImages": true,
-            "iconsBgColor": "@primaryColor",
+            "iconsBgColor": "#222222",
             "showFeaturesTitles": true,
             "showFeaturesTexts": true,
             "showFeaturesButtons": false,
@@ -1763,7 +1706,7 @@
             "overlayOpacity": "0.7"
           },
           "title": "Service, vente &amp; rapidité",
-          "text": "Nous sommes en mesure de vous proposer un service de qualité en effectuant la réparation et la remise à neuf de vérins hydrauliques ainsi que de pompes, de moteurs, de valves et plusieurs autres composantes hydrauliques. Notre structure de gestion verticale intégrée, de la conception au \n<br>service après ventes, fait de nous le partenaire idéal de tous vos projets hydrauliques et pneumatiques. Nous sommes des spécialistes de l’hydraulique, la pneumatique et l’automation. Nos principaux objectifs sont la satisfaction de notre clientèle et ce, en offrant un produit de qualité fiable et durable, en conformité avec les spécifications techniques du client.  Notre équipe de vente expérimentée ainsi que notre service à la clientèle professionnel et attentif travaillent en synergie avec notre département de soutien technique, afin de guider le client dans la sélection des produits adaptés à ses besoins.",
+          "text": "Nous sommes en mesure de vous proposer un service de qualité en effectuant la réparation et la remise à neuf de vérins hydrauliques ainsi que de pompes, de moteurs, de valves et plusieurs autres composantes hydrauliques. Notre structure de gestion verticale intégrée, de la conception au \n<br>service après ventes, fait de nous le partenaire idéal de tous vos projets hydrauliques et pneumatiques. Nous sommes des spécialistes de l’hydraulique, la pneumatique et l’automation. Nos principaux objectifs sont la satisfaction de notre clientèle et ce, en offrant un produit de qualité fiable et durable, en conformité avec les spécifications techniques du client.  Notre équipe de vente expérimentée ainsi que notre service à la clientèle professionnel et attentif travaillent en synergie avec notre département de soutien technique, afin de guider le client dans la sélection des produits adaptés à ses besoins.Vos échéanciers font partie de nos priorités. <br><br>Nous vous offrons\ndonc :\n<br>• Une vaste gamme de produits en entrepôt que nous\npouvons modifier et adapter à vos besoins ;\n<br>• Une production locale sur mesure disponible chez nous/ou\nchez nos partenaires affiliés.\n<br>• Programme d’échantillons et de prototypages en lien avec\nles projets.\n<br><br>Notre service de réparation, de modification et d’installation\njumelé à la capacité d’offrir plusieurs grandes marques de\n<br>produits complémentaires comme distributeur autorisé font\nde nous un arrêt incontournable pour tous vos besoins en\nhydraulique et pneumatique.\n<br><br><b>INGÉNIERIE SUR MESURE\n&amp; PROCÉDÉS DE FABRICATION</b>\n<br>Quels que soient vos besoins, notre équipe d’ingénieurs et de\ntechniciens expérimentés sauront sélectionner les composantes\net les systèmes adaptés à vos besoins. Nous sommes à l’écoute\nde nos clients afin de vous offrir des solutions innovantes.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
           "media1": {
             "iconFont": {
@@ -1772,9 +1715,10 @@
               "name": "setting3",
               "family": "mobirise-icons-bold",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "page2.html",
               "size": "50",
-              "color": "#424242"
+              "color": "#424242",
+              "newWindow": false
             }
           },
           "title1": "RÉPARATION",
@@ -1788,9 +1732,10 @@
               "name": "add-submenu",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "conception-fabrication.html",
               "size": "50",
-              "color": "#424242"
+              "color": "#424242",
+              "newWindow": false
             }
           },
           "title2": "CONCEPTION, ASSEMBLAGE ET FABRICATION",
@@ -1832,8 +1777,8 @@
           "_anchor": "features2-1o",
           "_styles": {
             ".mbr-iconfont": {
-              "color": "@primaryColor",
-              "border-color": "@primaryColor"
+              "color": "#222222",
+              "border-color": "#222222"
             },
             ".heading-title": {
               "color": "#ffffff",
@@ -1849,7 +1794,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 1,
-            "bgicon": true,
+            "bgicon": false,
             "showHeading": false,
             "showTitle": true,
             "showText": false,
@@ -1862,7 +1807,7 @@
             "parallax": false,
             "bgColorRadio": true,
             "containerColor1": "#ffffff",
-            "containerColor2": "#ffffff",
+            "containerColor2": "#cbcbcb",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
@@ -1909,9 +1854,9 @@
               "color": "#424242"
             }
           },
-          "title2": "<b>Adresse</b>",
+          "title2": "<b>Coordonnées</b>",
           "subtitle2": "Awesome",
-          "text2": "55, Théodore-Viau, <br>Terebonne (Qc) J6Y 0J8",
+          "text2": "55, Théodore-Viau, <br>Terebonne (Qc) J6Y 0J8<br>(450) 628-6644",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media3": {
             "iconFont": {
@@ -1946,6 +1891,11 @@
           ],
           "_name": "features21",
           "_anchor": "features21-23",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero features21 mbr-after-navbar\" data-rv-view=\"61\" style=\"background: linear-gradient(to right top, rgb(255, 255, 255), rgb(203, 203, 203)) rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n    \n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-cards-col col-xs-12 col-lg-offset-2\">\n                <div class=\"row\">\n\n                    <div class=\"mbr-cards-col col-xs-12\">\n                        <div class=\"card\">\n                            <div class=\"card-img col-xs-3 mbr-table-cell\"><a href=\"https://mobirise.com\" class=\"mdi-device-access-time mbr-iconfont\" style=\"color: rgb(66, 66, 66);\"></a></div>\n                            <div class=\"card-box col-xs-9 mbr-table-cell text-xs-left\">\n                                <h4 class=\"card-title mbr-section-subtitle sub-1 mbr-editable-content\" code-editable-id=\"79\"><strong>Horaire</strong></h4>\n                                <p class=\"card-text mbr-section-text text-1 mbr-editable-content\" code-editable-id=\"80\">Lundi au vendredi\n<br>7h à 17h et fin de semaine sur demande</p>\n                            </div>                            \n                            <div class=\"clear\"></div>\n                        </div>\n                    </div>\n\n                    <div class=\"mbr-cards-col col-xs-12\">\n                        <div class=\"card\">\n                            <div class=\"card-img col-xs-3 mbr-table-cell\"><a href=\"https://mobirise.com\" class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont\" style=\"color: rgb(66, 66, 66);\"></a></div>\n                            <div class=\"card-box col-xs-9 mbr-table-cell text-xs-left\">\n                                <h4 class=\"card-title mbr-section-subtitle sub-1 mbr-editable-content\" code-editable-id=\"81\"><strong>Coordonnées</strong></h4>\n                                <p class=\"card-text mbr-section-text text-1 mbr-editable-content\" code-editable-id=\"82\">55, Théodore-Viau, <br>Terebonne (Qc) J6Y 0J8<br>(450) 628-6644</p>\n                            </div>                            \n                            <div class=\"clear\"></div>\n                        </div>\n                    </div>\n\n                    \n\n                    \n\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\n.card .mbr-iconfont {\n  background: #fffffd;\n  border-color: #fffffd;\n}\n.mbr-table-cell {\n  vertical-align: middle;\n}\n.card-text {\n  text-align: left;\n}\n.card-title B {\n  font-size: 24px;\n  font-family: 'Oxygen', sans-serif;\n}\n",
+          "_customTemplate": true,
           "_styles": {
             ".card .mbr-iconfont": {
               "background": "#fffffd",
@@ -1953,75 +1903,22 @@
             },
             ".mbr-table-cell": {
               "vertical-align": "middle"
-            },
-            ".card-text": {
-              "text-align": "left"
-            },
-            ".card-title B": {
-              "font-size": "24px",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": true,
-            "showArrow": false,
-            "imageSize": "57",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "containerColor1": "#fffffd",
-            "containerColor2": "#fffffd",
-            "containerColor3": "#fffffd",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.8
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logos-site-web-hydolico-inc-570x200.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "Distributeurs autorisés",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "\n\n\n<meta charset=\"utf-8\">\n<title>Bande-logos</title>\n<link href=\"logos.css\" rel=\"stylesheet\" type=\"text/css\">\n\n\n<div class=\"distributeurs\">Distributeurs autorisés:</div>\n<div class=\"logos\">\n\t<a href=\"@PROJECT_PATH@/assets/images/salami16.jpg\"><img src=\"salami.jpg\" width=\"75\" height=\"53\" alt=\"\"></a>\n\t<a href=\"@PROJECT_PATH@/assets/images/winner17.jpg\"><img src=\"winner.jpg\" width=\"75\" height=\"53\" alt=\"\"></a>\n\t<a href=\"@PROJECT_PATH@/assets/images/emc18.jpg\"><img src=\"emc.jpg\" width=\"75\" height=\"53\" alt=\"\"></a>\n\t<a href=\"@PROJECT_PATH@/assets/images/delta19.jpg\"><img src=\"delta.jpg\" width=\"75\" height=\"53\" alt=\"\"></a>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+          "_customCSS": "@charset \"utf-8\";\n.logos {\n    text-align: center;\n\tmargin-top: 5px; \n}\n.distributeurs {\n\ttext-align: center;\n\tfont-family:Gotham, \"Helvetica Neue\", Helvetica;\n\tfont-size: 16px;\n}\n\n",
+          "alias": "code-editor",
           "_tags": [
-            "Thème"
+            "Extension"
           ],
-          "_name": "header7",
-          "_anchor": "header7-15",
-          "_styles": {
-            "H3": {
-              "font-size": "23px",
-              "color": "#2d2d2d"
-            },
-            "P": {
-              "font-size": "14px"
-            }
-          }
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-2d",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     },
@@ -2137,11 +2034,11 @@
         {
           "_params": {
             "showIcons": true,
-            "rows": "1",
+            "rows": "6",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -2156,13 +2053,13 @@
             "overlayOpacity": 0.4
           },
           "heading": "© 2019 - HYDROLICO Inc. - Tous droits réservés -&nbsp;",
-          "list1": "",
-          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
-          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list1": "• &nbsp; &nbsp; &nbsp; <a href=\"page6.html\">À PROPOS</a>",
+          "list2": "<a href=\"page4.html\">PRODUITS</a>",
+          "list3": "<a href=\"page5.html\">SERVICES</a>",
+          "list4": "<a href=\"page2.html\">RÉPARATIONS</a>",
+          "list5": "<a href=\"conception-fabrication.html\">CONCEPTION / FABRICATION</a>",
+          "list6": "<a href=\"page3.html\">CONTACT&nbsp;</a>",
+          "list7": "• &nbsp; &nbsp; &nbsp;EMPLOIS",
           "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
           "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
           "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
@@ -2186,65 +2083,72 @@
             ".footer-header": {
               "color": "#fffffd",
               "font-size": "18px"
+            },
+            "LI": {
+              "color": "#fffffd",
+              "font-size": "12px"
+            },
+            "A": {
+              "color": "#fffffd"
             }
           },
           "_anchor": "footer2-1a"
         },
         {
           "_params": {
-            "autoplay": true,
-            "animType": "basic_linear",
-            "theme": "catalyst",
+            "autoplay": false,
+            "animType": "stack",
+            "theme": "absent",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/a-propos-galerie-11-1600x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a-propos-galerie-3-1024x768.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/a-propos-galerie-4-1600x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/a-propos-galerie-7-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/a-propos-galerie-2-1024x768.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/a-propos-galerie-10-85x48.png",
+                "title": "title 2",
+                "text": "text 2",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/a-propos-galerie-7-1024x768.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/a-propos-galerie-4-1024x768.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/a-propos-galerie-13-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/a-propos-galerie-15-1600x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a-propos-galerie-11-1024x768.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/a-propos-galerie-14-1600x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/a-propos-galerie-14-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/a-propos-galerie-10-1024x768.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/a-propos-galerie-17-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/a-propos-galerie-13-1600x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a-propos-galerie-9-1024x768.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/a-propos-galerie-12-1600x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/a-propos-galerie-12-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/a-propos-galerie-8-1024x768.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/a-propos-galerie-15-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/a-propos-galerie-17-1600x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a-propos-galerie-6-1024x768.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/a-propos-galerie-16-1600x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/a-propos-galerie-16-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/a-propos-galerie-21-1600x1080.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/a-propos-galerie-20-1600x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/a-propos-galerie-20-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/a-propos-galerie-5-1024x768.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/a-propos-galerie-11-85x48.png",
                 "title": "title 3",
                 "text": "text 3",
-                "active": true
+                "active": false
               }
             ],
             "fullScreen": true,
@@ -2252,18 +2156,18 @@
             "hideControls": true,
             "responsive": "1",
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "captionsEffect": "slide",
             "showBullets": true,
             "bgColor": "#ffffff",
             "timeout": 2,
-            "duration": 2,
+            "duration": "1.5",
             "customSize": false,
             "customWidth": "1600",
             "customHeight": "1080",
-            "size": "1600x1080",
-            "width": "1600",
-            "height": "1080"
+            "size": "1024x768",
+            "width": "1024",
+            "height": "768"
           },
           "articleLayout": false,
           "alias": "wowslider",

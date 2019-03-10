@@ -587,21 +587,6 @@ a:hover {
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 }
-#footer2-7 .footer-list {
-  color: #b7b7b7;
-}
-#footer2-7 .btn-social {
-  border-color: #e8e8e8;
-  color: #e8e8e8;
-}
-#footer2-7 .btn-social:hover {
-  background: #e8e8e8;
-  color: #fff;
-}
-#footer2-7 .footer-header {
-  color: #fffffd;
-  font-size: 18px;
-}
 #header6-m H3 {
   font-size: 48px;
   text-align: left;
@@ -610,6 +595,18 @@ a:hover {
 #header6-m P {
   text-align: left;
   color: #ffffff;
+}
+#custom-html-2e {
+  @charset "utf-8";
+}
+#custom-html-2e .logos {
+  text-align: center;
+  margin-top: 5px;
+}
+#custom-html-2e .distributeurs {
+  text-align: center;
+  font-family: Gotham, "Helvetica Neue", Helvetica;
+  font-size: 16px;
 }
 
 
@@ -727,6 +724,13 @@ a:hover {
   color: #fffffd;
   font-size: 18px;
 }
+#footer2-a LI {
+  color: #fffffd;
+  font-size: 12px;
+}
+#footer2-a A {
+  color: #fffffd;
+}
 
 
 #features21-1r .card .mbr-iconfont {
@@ -834,6 +838,13 @@ a:hover {
   color: #fffffd;
   font-size: 18px;
 }
+#footer2-d LI {
+  color: #fffffd;
+  font-size: 12px;
+}
+#footer2-d A {
+  color: #fffffd;
+}
 
 
 #menu1-p .hide-buttons .nav-btn {
@@ -919,6 +930,13 @@ a:hover {
 #footer2-q .footer-header {
   color: #fffffd;
   font-size: 18px;
+}
+#footer2-q LI {
+  color: #fffffd;
+  font-size: 12px;
+}
+#footer2-q A {
+  color: #fffffd;
 }
 #form3-r .card {
   background-color: transparent;
@@ -1023,6 +1041,13 @@ a:hover {
   color: #fffffd;
   font-size: 18px;
 }
+#footer2-t LI {
+  color: #fffffd;
+  font-size: 12px;
+}
+#footer2-t A {
+  color: #fffffd;
+}
 #features4-z .card {
   background-color: transparent;
   box-shadow: none;
@@ -1047,22 +1072,28 @@ a:hover {
 }
 #features4-z .heading-title {
   color: #ffffff;
+  text-align: left;
 }
 #features4-z .heading-text {
   color: #ffffff;
+  text-align: left;
 }
 #features4-z .card-text P {
   text-align: left;
 }
-#header7-1s H3 {
-  font-size: 23px;
-  color: #2d2d2d;
-  text-align: left;
+#custom-html-2c {
+  @charset "utf-8";
 }
-#header7-1s P {
-  font-size: 14px;
+#custom-html-2c .logos {
+  text-align: center;
+  margin-top: 0px;
 }
-
+#custom-html-2c .distributeurs {
+  margin-top: 10px;
+  text-align: center;
+  font-family: Gotham, "Helvetica Neue", Helvetica;
+  font-size: 16px;
+}
 
 
 #menu1-12 .hide-buttons .nav-btn {
@@ -1149,9 +1180,16 @@ a:hover {
   color: #fffffd;
   font-size: 18px;
 }
+#footer2-13 LI {
+  color: #fffffd;
+  font-size: 12px;
+}
+#footer2-13 A {
+  color: #fffffd;
+}
 #features2-1o .mbr-iconfont {
-  color: #ffffff;
-  border-color: #ffffff;
+  color: #222222;
+  border-color: #222222;
 }
 #features2-1o .heading-title {
   color: #ffffff;
@@ -1160,6 +1198,16 @@ a:hover {
 #features2-1o .heading-text {
   color: #ffffff;
   text-align: left;
+}
+#features21-23 {
+  
+}
+#features21-23 .card .mbr-iconfont {
+  background: #fffffd;
+  border-color: #fffffd;
+}
+#features21-23 .mbr-table-cell {
+  vertical-align: middle;
 }
 #features21-23 .card .mbr-iconfont {
   background: #fffffd;
@@ -1175,12 +1223,17 @@ a:hover {
   font-size: 24px;
   font-family: 'Oxygen', sans-serif;
 }
-#header7-15 H3 {
-  font-size: 23px;
-  color: #2d2d2d;
+#custom-html-2d {
+  @charset "utf-8";
 }
-#header7-15 P {
-  font-size: 14px;
+#custom-html-2d .logos {
+  text-align: center;
+  margin-top: 5px;
+}
+#custom-html-2d .distributeurs {
+  text-align: center;
+  font-family: Gotham, "Helvetica Neue", Helvetica;
+  font-size: 16px;
 }
 
 
@@ -1267,4 +1320,11 @@ a:hover {
 #footer2-1a .footer-header {
   color: #fffffd;
   font-size: 18px;
+}
+#footer2-1a LI {
+  color: #fffffd;
+  font-size: 12px;
+}
+#footer2-1a A {
+  color: #fffffd;
 }
