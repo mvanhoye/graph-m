@@ -601,9 +601,10 @@ a:hover {
 }
 #custom-html-2e .logos {
   text-align: center;
-  margin-top: 5px;
+  margin-top: 10px;
 }
 #custom-html-2e .distributeurs {
+  margin-top: 5px;
   text-align: center;
   font-family: Gotham, "Helvetica Neue", Helvetica;
   font-size: 16px;
