@@ -6,6 +6,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -518,100 +519,6 @@ a:hover {
 .hamburger-icon:after {
   background-color: #ffffff;
 }
-#menu1-0 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu1-0 .navbar-toggler {
-  color: #2d2d2d;
-}
-#menu1-0 .close-icon::before,
-#menu1-0 .close-icon::after {
-  background-color: #2d2d2d;
-}
-#menu1-0 .link,
-#menu1-0 .dropdown-item {
-  color: #2d2d2d;
-  font-family: 'Montserrat', sans-serif;
-}
-#menu1-0 .link {
-  font-size: 0.9rem;
-}
-#menu1-0 .dropdown-item,
-#menu1-0 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
-}
-#menu1-0 .link:hover,
-#menu1-0 .link:focus {
-  color: #2b4484;
-}
-#menu1-0 .dropdown-item:hover::before,
-#menu1-0 .dropdown-item:focus::before {
-  background: #2b4484;
-}
-#menu1-0 .dropdown-item:hover,
-#menu1-0 .dropdown-item:focus {
-  color: #2d2d2d;
-}
-#menu1-0 .link[aria-expanded="true"],
-#menu1-0 .dropdown-menu {
-  background: #c8c8c8;
-}
-#menu1-0 .nav-dropdown-sm .link:focus,
-#menu1-0 .nav-dropdown-sm .link:hover,
-#menu1-0 .nav-dropdown-sm .dropdown-item:focus,
-#menu1-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #c0c0c0!important;
-}
-#menu1-0 .navbar,
-#menu1-0 .nav-dropdown-sm,
-#menu1-0 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu1-0 .nav-dropdown-sm .dropdown-menu {
-  background: #c8c8c8;
-}
-#menu1-0 .bg-color.transparent .link {
-  color: #2d2d2d;
-  transition: none;
-}
-#menu1-0 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu1-0 .bg-color.transparent.opened .link:hover,
-#menu1-0 .bg-color.transparent.opened .link:focus {
-  color: #2b4484;
-}
-#menu1-0 .link[aria-expanded="true"],
-#menu1-0 .dropdown-item[aria-expanded="true"] {
-  color: #2b4484!important;
-}
-#menu1-0 A {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 14px;
-}
-#header6-m H3 {
-  font-size: 48px;
-  text-align: left;
-  color: #ffffff;
-}
-#header6-m P {
-  text-align: left;
-  color: #ffffff;
-}
-#custom-html-2e {
-  @charset "utf-8";
-}
-#custom-html-2e .logos {
-  text-align: center;
-  margin-top: 10px;
-}
-#custom-html-2e .distributeurs {
-  margin-top: 5px;
-  text-align: center;
-  font-family: Gotham, "Helvetica Neue", Helvetica;
-  font-size: 16px;
-}
-
-
-
 #menu1-9 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -702,13 +609,19 @@ a:hover {
   font-size: 20px;
   font-family: 'Oxygen', sans-serif;
 }
-#header7-1u H3 {
-  font-size: 23px;
-  color: #2d2d2d;
-  text-align: left;
+#custom-html-2j {
+  @charset "utf-8";
 }
-#header7-1u P {
-  font-size: 14px;
+#custom-html-2j .logos {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 40px;
+}
+#custom-html-2j .distributeurs {
+  margin-top: 15px;
+  text-align: center;
+  font-family: Gotham, "Helvetica Neue", Helvetica;
+  font-size: 16px;
 }
 #footer2-a .footer-list {
   color: #b7b7b7;
@@ -816,13 +729,19 @@ a:hover {
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 }
-#header7-1t H3 {
-  font-size: 23px;
-  color: #2d2d2d;
-  text-align: left;
+#custom-html-2i {
+  @charset "utf-8";
 }
-#header7-1t P {
-  font-size: 14px;
+#custom-html-2i .logos {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 40px;
+}
+#custom-html-2i .distributeurs {
+  margin-top: 15px;
+  text-align: center;
+  font-family: Gotham, "Helvetica Neue", Helvetica;
+  font-size: 16px;
 }
 #footer2-d .footer-list {
   color: #b7b7b7;
@@ -1082,18 +1001,20 @@ a:hover {
 #features4-z .card-text P {
   text-align: left;
 }
-#custom-html-2c {
+#custom-html-2g {
   @charset "utf-8";
 }
-#custom-html-2c .logos {
+#custom-html-2g .logos {
   text-align: center;
-  margin-top: 0px;
+  margin-top: 15px;
+  margin-bottom: 40px;
 }
-#custom-html-2c .distributeurs {
-  margin-top: 10px;
+#custom-html-2g .distributeurs {
+  margin-top: 15px;
   text-align: center;
   font-family: Gotham, "Helvetica Neue", Helvetica;
   font-size: 16px;
+  margin-bottom: 10px;
 }
 
 
@@ -1224,14 +1145,16 @@ a:hover {
   font-size: 24px;
   font-family: 'Oxygen', sans-serif;
 }
-#custom-html-2d {
+#custom-html-2h {
   @charset "utf-8";
 }
-#custom-html-2d .logos {
+#custom-html-2h .logos {
   text-align: center;
-  margin-top: 5px;
+  margin-top: 15px;
+  margin-bottom: 30px;
 }
-#custom-html-2d .distributeurs {
+#custom-html-2h .distributeurs {
+  margin-top: 15px;
   text-align: center;
   font-family: Gotham, "Helvetica Neue", Helvetica;
   font-size: 16px;
@@ -1306,6 +1229,124 @@ a:hover {
 #menu1-19 A {
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
+}
+#footer2-1a .footer-list {
+  color: #b7b7b7;
+}
+#footer2-1a .btn-social {
+  border-color: #e8e8e8;
+  color: #e8e8e8;
+}
+#footer2-1a .btn-social:hover {
+  background: #e8e8e8;
+  color: #fff;
+}
+#footer2-1a .footer-header {
+  color: #fffffd;
+  font-size: 18px;
+}
+#footer2-1a LI {
+  color: #fffffd;
+  font-size: 12px;
+}
+#footer2-1a A {
+  color: #fffffd;
+}
+#custom-html-2r {
+  
+  
+}
+#custom-html-2r .hide-buttons .nav-btn {
+  display: none !important;
+}
+#custom-html-2r .navbar-toggler {
+  color: #2d2d2d;
+}
+#custom-html-2r .close-icon::before,
+#custom-html-2r .close-icon::after {
+  background-color: #2d2d2d;
+}
+#custom-html-2r .link,
+#custom-html-2r .dropdown-item {
+  color: #2d2d2d;
+  font-family: 'Montserrat', sans-serif;
+}
+#custom-html-2r .link {
+  font-size: 0.9rem;
+}
+#custom-html-2r .dropdown-item,
+#custom-html-2r .nav-dropdown-sm .link {
+  font-size: 0.975rem;
+}
+#custom-html-2r .link:hover,
+#custom-html-2r .link:focus {
+  color: #2b4484;
+}
+#custom-html-2r .dropdown-item:hover::before,
+#custom-html-2r .dropdown-item:focus::before {
+  background: #2b4484;
+}
+#custom-html-2r .dropdown-item:hover,
+#custom-html-2r .dropdown-item:focus {
+  color: #2d2d2d;
+}
+#custom-html-2r .link[aria-expanded="true"],
+#custom-html-2r .dropdown-menu {
+  background: #c8c8c8;
+}
+#custom-html-2r .nav-dropdown-sm .link:focus,
+#custom-html-2r .nav-dropdown-sm .link:hover,
+#custom-html-2r .nav-dropdown-sm .dropdown-item:focus,
+#custom-html-2r .nav-dropdown-sm .dropdown-item:hover {
+  background: #c0c0c0!important;
+}
+#custom-html-2r .navbar,
+#custom-html-2r .nav-dropdown-sm,
+#custom-html-2r .nav-dropdown-sm .link[aria-expanded="true"],
+#custom-html-2r .nav-dropdown-sm .dropdown-menu {
+  background: #c8c8c8;
+}
+#custom-html-2r .bg-color.transparent .link {
+  color: #2d2d2d;
+  transition: none;
+}
+#custom-html-2r .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#custom-html-2r .bg-color.transparent.opened .link:hover,
+#custom-html-2r .bg-color.transparent.opened .link:focus {
+  color: #2b4484;
+}
+#custom-html-2r .link[aria-expanded="true"],
+#custom-html-2r .dropdown-item[aria-expanded="true"] {
+  color: #2b4484!important;
+}
+#custom-html-2r A {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+}
+#header6-2m H3 {
+  font-size: 48px;
+  text-align: left;
+  color: #ffffff;
+}
+#header6-2m P {
+  text-align: left;
+  color: #ffffff;
+}
+#custom-html-2p {
+  @charset "utf-8";
+}
+#custom-html-2p .logos {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 40px;
+}
+#custom-html-2p .distributeurs {
+  margin-top: 15px;
+  text-align: center;
+  font-family: Gotham, "Helvetica Neue", Helvetica;
+  font-size: 16px;
 }
 #footer2-1a .footer-list {
   color: #b7b7b7;

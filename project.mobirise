@@ -39,198 +39,15 @@
     "cookiesAlert": "",
     "gdpr": "",
     "сanonical-url": "",
-    "uniqCompNum": 88,
+    "uniqCompNum": 100,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "index.html": {
-      "settings": {
-        "main": true,
-        "title": "ACCUEIL",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-toggler": {
-              "color": "#2d2d2d"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#2d2d2d"
-            },
-            ".link, .dropdown-item": {
-              "color": "#2d2d2d",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            ".link": {
-              "font-size": "0.9rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
-            },
-            ".link:hover, .link:focus": {
-              "color": "#2b4484"
-            },
-            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
-              "background": "#2b4484"
-            },
-            ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#2d2d2d"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#c8c8c8"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#c0c0c0!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c8c8c8"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#2d2d2d",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#2b4484"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#2b4484!important"
-            },
-            "A": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "14px"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#c8c8c8",
-            "fontSize": "0.9",
-            "imageSize": "4",
-            "fontName": {
-              "name": "Montserrat",
-              "css": "'Montserrat', sans-serif",
-              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            "fontColor": "#2d2d2d",
-            "fontHoverColor": "#2b4484"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">À PROPOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PRODUITS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">RÉPARATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"conception-fabrication.html\" aria-expanded=\"false\">CONCEPTION/FABRICATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-info\" href=\"https://mobirise.com/\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-hydrolico-horizontal-520x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "menu1",
-          "_anchor": "menu1-0"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "showArrow": true,
-            "imageSize": "38",
-            "paddingTop": "4",
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/new-building-3d-1772x908.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "containerColor1": "#094587",
-            "containerColor2": "#3adcdc",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.4"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/hydrolico-blanc-carre-1400x947.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "Bienvenue chez <br><b>Hydrolico Inc.</b>",
-          "text": "Hydrolico, depuis 1994, est un fabricant et distributeur de vérins hydrauliques sur mesure et d’unités de puissance. Hydrolico se démarque autant par la qualité de ses produits que par sa capacité à livrer dans des délais imbattables. Hydrolico s'est taillé une place enviable dans un marché hautement concurrentiel. Hydrolico est en mesure de vous proposer un service de qualité en effectuant la réparation et la remise à neuf de vérins hydrauliques ainsi que de pompes, de moteurs, de valves et plusieurs autres composantes hydrauliques. De plus, Hydrolico est distributeur d’une vaste gamme de produits utilitaires. Au service d'une clientèle principalement répartie dans les industries forestière, minière et dans le secteur du transport, Hydrolico est en mesure de vous proposer un service juste-à temps. L'entreprise effectue également la vente, la réparation et la remise à neuf de vérins hydrauliques. \n<br>\n<br>\n<br>• Cylindres sur mesure \n<br>• Unités de puissance \n<br>• Systèmes hydrauliques \n<br>• Pompes à débit fixe et variable \n<br>• Valves mobiles et industrielles \n<br>\n<br>Chez Hydrolico, le service et la qualité passent avant tout.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "header6",
-          "_anchor": "header6-m",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero header3 header6 mbr-parallax-background mbr-after-navbar\" data-rv-view=\"5\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/new-building-3d-1772x908.jpg&quot;); padding-top: 200px; padding-bottom: 150px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.4; background-color: rgb(0, 0, 0);\">\n    </div>\n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"row\">\n                    <div class=\"mbr-table-md-up\">\n                        \n                        \n                        \n\n                        <div class=\"mbr-table-cell mbr-right-padding-md-up col-md-5 text-xs-center text-md-right\">\n\n                            <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"28\">Bienvenue chez <br><strong>Hydrolico Inc.</strong></h3>\n\n                            <div class=\"mbr-section-text\">\n                                <p class=\"mbr-editable-content\" code-editable-id=\"29\">Hydrolico, depuis 1994, est un fabricant et distributeur de vérins hydrauliques sur mesure et d’unités de puissance. Hydrolico se démarque autant par la qualité de ses produits que par sa capacité à livrer dans des délais imbattables. Hydrolico s'est taillé une place enviable dans un marché hautement concurrentiel. Hydrolico est en mesure de vous proposer un service de qualité en effectuant la réparation et la remise à neuf de vérins hydrauliques ainsi que de pompes, de moteurs, de valves et plusieurs autres composantes hydrauliques. De plus, Hydrolico est distributeur d’une vaste gamme de produits utilitaires. Au service d'une clientèle principalement répartie dans les industries forestière, minière et dans le secteur du transport, Hydrolico est en mesure de vous proposer un service juste-à temps. L'entreprise effectue également la vente, la réparation et la remise à neuf de vérins hydrauliques. \n<br>\n<br>\n<br>• Cylindres sur mesure \n<br>• Unités de puissance \n<br>• Systèmes hydrauliques \n<br>• Pompes à débit fixe et variable \n<br>• Valves mobiles et industrielles \n<br>\n<br>Chez Hydrolico, le service et la qualité passent avant tout.</p>\n                            </div>\n\n                            \n\n                        </div>\n                        <div class=\"mbr-table-cell mbr-valign-top col-md-7 image-size\" style=\"width: 38%;\">\n                            \n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#next\"><i class=\"mbri-down\"></i></a></div>\n\n</div></section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "H3 {\n  font-size: 48px;\n  text-align: left;\n  color: #ffffff;\n}\nP {\n  text-align: left;\n  color: #ffffff;\n}\n",
-          "_customTemplate": true
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<meta charset=\"utf-8\">\n<title>Bande-logos</title>\n<link href=\"logos.css\" rel=\"stylesheet\" type=\"text/css\">\n\n\n<div class=\"distributeurs\">Distributeurs autorisés:</div>\n\t<div class=\"logos\">\n\t<a href=\"hydro-custom.jpg\"><img src=\"hydro-custom.jpg\" width=\"82\" height=\"59\" alt=\"hydro-custom\"></a>\n\t<a href=\"salami.jpg\"><img src=\"salami.jpg\" width=\"80\" height=\"57\" alt=\"salami\"></a>\n\t<a href=\"winner.jpg\"><img src=\"winner.jpg\" width=\"80\" height=\"57\" alt=\"winner\"></a>\n\t<a href=\"emc.jpg\"><img src=\"emc.jpg\" width=\"80\" height=\"57\" alt=\"emc\"></a>\n\t<a href=\"delta.jpg\"><img src=\"delta.jpg\" width=\"80\" height=\"57\" alt=\"delta\"></a>\n\t<a href=\"hydro-leduc.jpg\"><img src=\"hydro-leduc.jpg\" width=\"80\" height=\"57\" alt=\"hydro=leduc\"></a>\n\t<a href=\"Prince.jpg\"><img src=\"Prince.jpg\" width=\"80\" height=\"57\" alt=\"prince\"></a>\n\t<a href=\"brevini.jpg\"><img src=\"brevini.jpg\" width=\"80\" height=\"57\" alt=\"brevini\"></a>\n\t<a href=\"technord.jpg\"><img src=\"technord.jpg\" width=\"80\" height=\"57\" alt=\"technord\"></a>\n\t<a href=\"lenz.jpg\"><img src=\"lenz.jpg\" width=\"80\" height=\"57\" alt=\"lenz\"></a>\n    <a href=\"stauff.jpg\"><img src=\"stauff.jpg\" width=\"80\" height=\"57\" alt=\"stauff\"></a><br>\n    <a href=\"pci.jpg\"><img src=\"pci.jpg\" width=\"80\" height=\"57\" alt=\"pci\"></a>\n    <a href=\"hansa.jpg\"><img src=\"hansa.jpg\" width=\"80\" height=\"57\" alt=\"hansa\"></a>\n    <a href=\"indemar.jpg\"><img src=\"indemar.jpg\" width=\"80\" height=\"57\" alt=\"indemar\"></a> \n\t</div>\n\n\n\n\n\n\n\n",
-          "_customCSS": "@charset \"utf-8\";\n.logos {\n    text-align: center;\n\tmargin-top: 10px; \n}\n.distributeurs {\n    margin-top:5px;\n\ttext-align: center;\n\tfont-family:Gotham, \"Helvetica Neue\", Helvetica;\n\tfont-size: 16px;\n}\n\n",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-2e",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
-        }
-      ]
-    },
     "conception-fabrication.html": {
       "settings": {
         "title": "CONCEPTION/FABRICATION",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -318,7 +135,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-hydrolico-horizontal-520x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "page7.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -339,7 +156,7 @@
         {
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "2",
             "showHeading": true,
             "showTitle": true,
             "showText": true,
@@ -376,7 +193,7 @@
           },
           "title1": "Touch!",
           "subtitle1": "Awesome",
-          "text1": "<b>CONCEPTION et SOLUTION</b><br>• Systèmes hydrauliques\n<div>• Vérins spéciaux\n</div><div>• Équipements spécialisés\n</div><div>• Conception de solutions personnalisées</div>",
+          "text1": "<b>CONCEPTION et SOLUTION</b><br>• Systèmes hydrauliques<br>• Systèmes pneumatiques<br>\n<div>• Vérins et cylindres spéciaux</div>• Blocks forés<br><div>\n</div><div>• Équipements spécialisés</div>• Unité de puissance<br><div>\n</div><div>• Conception de solutions personnalisées</div>",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
@@ -392,7 +209,7 @@
           },
           "title2": "Swipe!",
           "subtitle2": "Awesome",
-          "text2": "<b>FABRICATION</b><br>• Fabrication de cylindres sur mesure\n<div>• Unités de puissance\n</div><div>• Systèmes clé en main &nbsp;• &nbsp;Usinage &nbsp;• &nbsp; Soudure&nbsp;<div>• Assemblage &nbsp;<span style=\"color: inherit; font-size: 1rem; background-color: transparent;\">• &nbsp; Tests</span></div><div><br></div></div>",
+          "text2": "<b>FABRICATION</b><br>• Fabrication de cylindres sur mesure<br>\n<div>• Fabriation de blocks forés</div><div>• Unités de puissance\n</div><div>• Systèmes clé en main &nbsp;</div><div>• Usinage &nbsp;• &nbsp; Soudure&nbsp;<div>• Assemblage &nbsp;<span style=\"color: inherit; font-size: 1rem; background-color: transparent;\">• &nbsp; Tests</span></div><div><br></div></div>",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media3": {
             "iconFont": {
@@ -453,64 +270,18 @@
           }
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": true,
-            "showArrow": false,
-            "imageSize": "57",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "containerColor1": "#fffffd",
-            "containerColor2": "#fffffd",
-            "containerColor3": "#fffffd",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.8
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logos-site-web-hydolico-inc-570x200.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "Distributeurs autorisés",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<meta charset=\"utf-8\">\n<title>Bande-logos</title>\n<link href=\"logos.css\" rel=\"stylesheet\" type=\"text/css\">\n\n\n<div class=\"distributeurs\">Distributeurs autorisés:</div>\n\t<div class=\"logos\">\n\t<a href=\"hydro-custom.jpg\"><img src=\"false\" width=\"82\" height=\"59\" alt=\"hydro-custom\"></a>\n\t<a href=\"salami.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"salami\"></a>\n\t<a href=\"winner.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"winner\"></a>\n\t<a href=\"emc.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"emc\"></a>\n\t<a href=\"delta.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"delta\"></a>\n\t<a href=\"hydro-leduc.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"hydro=leduc\"></a>\n\t<a href=\"Prince.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"prince\"></a>\n\t<a href=\"brevini.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"brevini\"></a>\n\t<a href=\"technord.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"technord\"></a><br>\n\t<a href=\"lenz.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"lenz\"></a>\n    <a href=\"stauff.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"stauff\"></a>\n    <a href=\"pci.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"pci\"></a>\n    <a href=\"hansa.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"hansa\"></a>\n    <a href=\"indemar.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"indemar\"></a>\n    <a href=\"D&amp;N.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"D&amp;N\"></a>\n    <a href=\"yuken.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"yuken\"></a>\n    <a href=\"blb.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"blb\"></a><br>\n    <a href=\"youli.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"youli\"></a>\n    <a href=\"padoan.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"padoan\"></a>\n    <a href=\"pvs.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"pvs\"></a>\n    <a href=\"atlantic.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"atlantic\"></a>\n    <a href=\"roquet.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"roquet\"></a>\n\t</div>\n\n\n\n\n\n\n\n",
+          "_customCSS": "@charset \"utf-8\";\n.logos {\n    text-align: center;\n\tmargin-top: 15px;\n    margin-bottom: 40px;\n}\n.distributeurs {\n    margin-top:15px;\n\ttext-align: center;\n\tfont-family:Gotham, \"Helvetica Neue\", Helvetica;\n\tfont-size: 16px;\n}\n\n",
+          "alias": "code-editor",
           "_tags": [
-            "Thème"
+            "Extension"
           ],
-          "_name": "header7",
-          "_styles": {
-            "H3": {
-              "font-size": "23px",
-              "color": "#2d2d2d",
-              "text-align": "left"
-            },
-            "P": {
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "header7-1u"
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-2j",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_params": {
@@ -518,8 +289,8 @@
             "rows": "6",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -580,7 +351,7 @@
     "page2.html": {
       "settings": {
         "title": "RÉPARATIONS",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -784,7 +555,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-hydrolico-horizontal-520x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "page7.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -803,64 +574,18 @@
           "_anchor": "menu1-c"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": true,
-            "showArrow": false,
-            "imageSize": "57",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "containerColor1": "#fffffd",
-            "containerColor2": "#fffffd",
-            "containerColor3": "#fffffd",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.8
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logos-site-web-hydolico-inc-570x200.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "Distributeurs autorisés",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<meta charset=\"utf-8\">\n<title>Bande-logos</title>\n<link href=\"logos.css\" rel=\"stylesheet\" type=\"text/css\">\n\n\n<div class=\"distributeurs\">Distributeurs autorisés:</div>\n\t<div class=\"logos\">\n\t<a href=\"hydro-custom.jpg\"><img src=\"false\" width=\"82\" height=\"59\" alt=\"hydro-custom\"></a>\n\t<a href=\"salami.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"salami\"></a>\n\t<a href=\"winner.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"winner\"></a>\n\t<a href=\"emc.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"emc\"></a>\n\t<a href=\"delta.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"delta\"></a>\n\t<a href=\"hydro-leduc.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"hydro=leduc\"></a>\n\t<a href=\"Prince.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"prince\"></a>\n\t<a href=\"brevini.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"brevini\"></a>\n\t<a href=\"technord.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"technord\"></a><br>\n\t<a href=\"lenz.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"lenz\"></a>\n    <a href=\"stauff.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"stauff\"></a>\n    <a href=\"pci.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"pci\"></a>\n    <a href=\"hansa.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"hansa\"></a>\n    <a href=\"indemar.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"indemar\"></a>\n    <a href=\"D&amp;N.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"D&amp;N\"></a>\n    <a href=\"yuken.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"yuken\"></a>\n    <a href=\"blb.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"blb\"></a><br>\n    <a href=\"youli.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"youli\"></a>\n    <a href=\"padoan.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"padoan\"></a>\n    <a href=\"pvs.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"pvs\"></a>\n    <a href=\"atlantic.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"atlantic\"></a>\n    <a href=\"roquet.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"roquet\"></a>\n\t</div>\n\n\n\n\n\n\n\n",
+          "_customCSS": "@charset \"utf-8\";\n.logos {\n    text-align: center;\n\tmargin-top: 15px;\n    margin-bottom: 40px;\n}\n.distributeurs {\n    margin-top:15px;\n\ttext-align: center;\n\tfont-family:Gotham, \"Helvetica Neue\", Helvetica;\n\tfont-size: 16px;\n}\n\n",
+          "alias": "code-editor",
           "_tags": [
-            "Thème"
+            "Extension"
           ],
-          "_name": "header7",
-          "_styles": {
-            "H3": {
-              "font-size": "23px",
-              "color": "#2d2d2d",
-              "text-align": "left"
-            },
-            "P": {
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "header7-1t"
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-2i",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_params": {
@@ -868,8 +593,8 @@
             "rows": "6",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -930,7 +655,7 @@
     "page3.html": {
       "settings": {
         "title": "CONTACT",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -1018,7 +743,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-hydrolico-horizontal-520x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "page7.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1042,8 +767,8 @@
             "rows": "6",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -1141,7 +866,7 @@
             "overlayColor": "#fffffd",
             "overlayOpacity": 0.95
           },
-          "title": "PRENEZ CONTACT SANS PLUS TARDER",
+          "title": "PRENEZ CONTACT AVEC NOUS SANS PLUS TARDER",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
           "header": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, veniam?",
@@ -1179,13 +904,28 @@
           ],
           "_name": "form3",
           "_anchor": "form3-r"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "55, Thédore-Viau\nTerrebonne",
+              "placeId": "ChIJtZnVaTvZyEwRunJONq0-p6s",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-2k"
         }
       ]
     },
     "page4.html": {
       "settings": {
         "title": "PRODUITS",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -1273,7 +1013,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-hydrolico-horizontal-520x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "page7.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1297,8 +1037,8 @@
             "rows": "6",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -1352,7 +1092,8 @@
               "color": "#fffffd"
             }
           },
-          "_anchor": "footer2-t"
+          "_anchor": "footer2-t",
+          "_customCSS": ""
         },
         {
           "_inherit": "features2",
@@ -1492,14 +1233,14 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "\n\n\n<meta charset=\"utf-8\">\n<title>Bande-logos</title>\n<link href=\"file:///C|/Users/micvan/Desktop/LOGOS - CLIC/logos.css\" rel=\"stylesheet\" type=\"text/css\">\n\n\n<div class=\"distributeurs\">Distributeurs autorisés:</div>\n<div class=\"logos\">\n\t<img src=\"@PROJECT_PATH@/assets/images/salami21.jpg\" width=\"75\" height=\"53\" alt=\"\">\n\t<img src=\"@PROJECT_PATH@/assets/images/winner22.jpg\" width=\"75\" height=\"53\" alt=\"\">\n\t<img src=\"@PROJECT_PATH@/assets/images/emc23.jpg\" width=\"75\" height=\"53\" alt=\"\"><img src=\"@PROJECT_PATH@/assets/images/delta-power.jpg\" width=\"75\" height=\"53\" alt=\"\">\n</div>\n\n\n",
-          "_customCSS": "@charset \"utf-8\";\n.logos {\n    text-align: center;\n    margin-top: 0px;\n}\n.distributeurs {\n    margin-top:10px;\n\ttext-align: center;\n\tfont-family:Gotham, \"Helvetica Neue\", Helvetica;\n\tfont-size: 16px;\n}\n\n",
+          "_customHTML": "<meta charset=\"utf-8\">\n<title>Bande-logos</title>\n<link href=\"logos.css\" rel=\"stylesheet\" type=\"text/css\">\n\n\n<div class=\"distributeurs\">Distributeurs autorisés:</div>\n\t<div class=\"logos\">\n\t<a href=\"hydro-custom.jpg\"><img src=\"false\" width=\"82\" height=\"59\" alt=\"hydro-custom\"></a>\n\t<a href=\"salami.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"salami\"></a>\n\t<a href=\"winner.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"winner\"></a>\n\t<a href=\"emc.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"emc\"></a>\n\t<a href=\"delta.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"delta\"></a>\n\t<a href=\"hydro-leduc.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"hydro=leduc\"></a>\n\t<a href=\"Prince.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"prince\"></a>\n\t<a href=\"brevini.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"brevini\"></a>\n\t<a href=\"technord.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"technord\"></a><br>\n\t<a href=\"lenz.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"lenz\"></a>\n    <a href=\"stauff.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"stauff\"></a>\n    <a href=\"pci.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"pci\"></a>\n    <a href=\"hansa.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"hansa\"></a>\n    <a href=\"indemar.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"indemar\"></a>\n    <a href=\"D&amp;N.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"D&amp;N\"></a>\n    <a href=\"yuken.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"yuken\"></a>\n    <a href=\"blb.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"blb\"></a><br>\n    <a href=\"youli.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"youli\"></a>\n    <a href=\"padoan.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"padoan\"></a>\n    <a href=\"pvs.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"pvs\"></a>\n    <a href=\"atlantic.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"atlantic\"></a>\n    <a href=\"roquet.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"roquet\"></a><br>\n\t</div>\n\n\n\n\n\n\n\n",
+          "_customCSS": "@charset \"utf-8\";\n.logos {\n    text-align: center;\n\tmargin-top: 15px;\n    margin-bottom: 40px;\n}\n.distributeurs {\n    margin-top:15px;\n\ttext-align: center;\n\tfont-family:Gotham, \"Helvetica Neue\", Helvetica;\n\tfont-size: 16px;\n    margin-bottom:10px;\n}\n\n",
           "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-2c",
+          "_anchor": "custom-html-2g",
           "_PHPplaceholders": [],
           "_JSplaceholders": []
         }
@@ -1508,7 +1249,7 @@
     "page5.html": {
       "settings": {
         "title": "SERVICES",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -1596,7 +1337,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-hydrolico-horizontal-520x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "page7.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1620,8 +1361,8 @@
             "rows": "6",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -1909,14 +1650,14 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "\n\n\n<meta charset=\"utf-8\">\n<title>Bande-logos</title>\n<link href=\"logos.css\" rel=\"stylesheet\" type=\"text/css\">\n\n\n<div class=\"distributeurs\">Distributeurs autorisés:</div>\n<div class=\"logos\">\n\t<a href=\"@PROJECT_PATH@/assets/images/salami24.jpg\"><img src=\"salami.jpg\" width=\"75\" height=\"53\" alt=\"\"></a>\n\t<a href=\"@PROJECT_PATH@/assets/images/winner25.jpg\"><img src=\"winner.jpg\" width=\"75\" height=\"53\" alt=\"\"></a>\n\t<a href=\"@PROJECT_PATH@/assets/images/emc26.jpg\"><img src=\"emc.jpg\" width=\"75\" height=\"53\" alt=\"\"></a>\n\t<a href=\"@PROJECT_PATH@/assets/images/delta27.jpg\"><img src=\"delta.jpg\" width=\"75\" height=\"53\" alt=\"\"></a>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "_customCSS": "@charset \"utf-8\";\n.logos {\n    text-align: center;\n\tmargin-top: 5px; \n}\n.distributeurs {\n\ttext-align: center;\n\tfont-family:Gotham, \"Helvetica Neue\", Helvetica;\n\tfont-size: 16px;\n}\n\n",
+          "_customHTML": "<meta charset=\"utf-8\">\n<title>Bande-logos</title>\n<link href=\"logos.css\" rel=\"stylesheet\" type=\"text/css\">\n\n\n<div class=\"distributeurs\">Distributeurs autorisés:</div>\n\t<div class=\"logos\">\n\t<a href=\"hydro-custom.jpg\"><img src=\"false\" width=\"82\" height=\"59\" alt=\"hydro-custom\"></a>\n\t<a href=\"salami.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"salami\"></a>\n\t<a href=\"winner.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"winner\"></a>\n\t<a href=\"emc.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"emc\"></a>\n\t<a href=\"delta.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"delta\"></a>\n\t<a href=\"hydro-leduc.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"hydro=leduc\"></a>\n\t<a href=\"Prince.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"prince\"></a>\n\t<a href=\"brevini.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"brevini\"></a>\n\t<a href=\"technord.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"technord\"></a><br>\n\t<a href=\"lenz.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"lenz\"></a>\n    <a href=\"stauff.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"stauff\"></a>\n    <a href=\"pci.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"pci\"></a>\n    <a href=\"hansa.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"hansa\"></a>\n    <a href=\"indemar.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"indemar\"></a>\n    <a href=\"D&amp;N.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"D&amp;N\"></a>\n    <a href=\"yuken.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"yuken\"></a>\n    <a href=\"blb.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"blb\"></a><br>\n    <a href=\"youli.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"youli\"></a>\n    <a href=\"padoan.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"padoan\"></a>\n    <a href=\"pvs.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"pvs\"></a>\n    <a href=\"atlantic.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"atlantic\"></a>\n    <a href=\"roquet.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"roquet\"></a>\n\t</div>\n\n\n\n\n\n\n\n",
+          "_customCSS": "@charset \"utf-8\";\n.logos {\n    text-align: center;\n\tmargin-top: 15px;\n    margin-bottom:30px;\n}\n.distributeurs {\n    margin-top:15px;\n\ttext-align: center;\n\tfont-family:Gotham, \"Helvetica Neue\", Helvetica;\n\tfont-size: 16px;\n}\n\n",
           "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-2d",
+          "_anchor": "custom-html-2h",
           "_PHPplaceholders": [],
           "_JSplaceholders": []
         }
@@ -1925,7 +1666,7 @@
     "page6.html": {
       "settings": {
         "title": "À PROPOS",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -2013,7 +1754,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-hydrolico-horizontal-520x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "page7.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2037,8 +1778,8 @@
             "rows": "6",
             "listColor": "#b7b7b7",
             "btnColor": "#e8e8e8",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
             "parallax": false,
@@ -2178,6 +1919,169 @@
           "_anchor": "wowslider-1g"
         }
       ]
+    },
+    "index.html": {
+      "settings": {
+        "title": "ACCUEIL",
+        "order": 2
+      },
+      "components": [
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section class=\"menu1\" data-rv-view=\"4\">\n\n    <nav class=\"navbar navbar-dropdown navbar-fixed-top\">\n        <div class=\"container-fluid\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell logo\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"page7.html\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/logo-hydrolico-horizontal-520x128.png\" alt=\"Mobirise\" style=\"height: 4rem;\"></a>\n                        \n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell text\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"page6.html\" code-editable-id=\"28\">À PROPOS</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"page4.html\" aria-expanded=\"false\" code-editable-id=\"29\">PRODUITS</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"page5.html\" aria-expanded=\"false\" code-editable-id=\"30\">SERVICES</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"page2.html\" aria-expanded=\"false\" code-editable-id=\"31\">RÉPARATIONS</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"conception-fabrication.html\" aria-expanded=\"false\" code-editable-id=\"32\">CONCEPTION/FABRICATION</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"page3.html\" aria-expanded=\"false\" code-editable-id=\"33\">CONTACT</a></li></ul>\n\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);\n@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);\n.hide-buttons .nav-btn {\n  display: none !important;\n}\n.navbar-toggler {\n  color: #2d2d2d;\n}\n.close-icon::before, .close-icon::after {\n  background-color: #2d2d2d;\n}\n.link, .dropdown-item {\n  color: #2d2d2d;\n  font-family: 'Montserrat', sans-serif;\n}\n.link {\n  font-size: 0.9rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n  font-size: 0.975rem;\n}\n.link:hover, .link:focus {\n  color: #2b4484;\n}\n.dropdown-item:hover::before, .dropdown-item:focus::before {\n  background: #2b4484;\n}\n.dropdown-item:hover, .dropdown-item:focus {\n  color: #2d2d2d;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n  background: #c8c8c8;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n  background: #c0c0c0!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n  background: #c8c8c8;\n}\n.bg-color.transparent .link {\n  color: #2d2d2d;\n  transition: none;\n}\n.bg-color.transparent.opened .link {\n  transition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n  color: #2b4484;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n  color: #2b4484!important;\n}\nA {\n  font-family: 'Montserrat', sans-serif;\n  font-size: 14px;\n}\n",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-2r",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "38",
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/new-building-3d-1772x908.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "containerColor1": "#094587",
+            "containerColor2": "#3adcdc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.4"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/hydrolico-blanc-carre-1400x947.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Bienvenue chez <br><b>Hydrolico Inc.</b>",
+          "text": "Hydrolico, depuis 1994, est un fabricant et distributeur de vérins hydrauliques sur mesure et d’unités de puissance. Hydrolico se démarque autant par la qualité de ses produits que par sa capacité à livrer dans des délais imbattables. Hydrolico s'est taillé une place enviable dans un marché hautement concurrentiel. Hydrolico est en mesure de vous proposer un service de qualité en effectuant la réparation et la remise à neuf de vérins hydrauliques ainsi que de pompes, de moteurs, de valves et plusieurs autres composantes hydrauliques. De plus, Hydrolico est distributeur d’une vaste gamme de produits utilitaires. Au service d'une clientèle principalement répartie dans les industries forestière, minière et dans le secteur du transport, Hydrolico est en mesure de vous proposer un service juste-à temps. L'entreprise effectue également la vente, la réparation et la remise à neuf de vérins hydrauliques. \n<br>\n<br>\n<br>• Cylindres sur mesure \n<br>• Unités de puissance \n<br>• Systèmes hydrauliques \n<br>• Pompes à débit fixe et variable \n<br>• Valves mobiles et industrielles \n<br>\n<br>Chez Hydrolico, le service et la qualité passent avant tout.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "header6",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero header3 header6 mbr-parallax-background mbr-after-navbar\" data-rv-view=\"5\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/new-building-3d-1772x908.jpg&quot;); padding-top: 200px; padding-bottom: 150px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.4; background-color: rgb(0, 0, 0);\">\n    </div>\n\n    <div class=\"mbr-table mbr-table-full\">\n        <div class=\"mbr-table-cell\">\n\n            <div class=\"container\">\n                <div class=\"row\">\n                    <div class=\"mbr-table-md-up\">\n                        \n                        \n                        \n\n                        <div class=\"mbr-table-cell mbr-right-padding-md-up col-md-5 text-xs-center text-md-right\">\n\n                            <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"28\">Bienvenue chez <br><br><strong><a href=\"hydrolico-blanc-H.png\"><img src=\"false\" width=\"400\" height=\"100\" alt=\"hydrolico\" style=\"width: 50%;\"></a></strong></h3>\n\n                            <div class=\"mbr-section-text\">\n                                <p class=\"mbr-editable-content\" code-editable-id=\"29\">Hydrolico, depuis 1994, est un fabricant et distributeur de vérins hydrauliques sur mesure et d’unités de puissance. Hydrolico se démarque autant par la qualité de ses produits que par sa capacité à livrer dans des délais imbattables. Hydrolico s'est taillé une place enviable dans un marché hautement concurrentiel. Hydrolico est en mesure de vous proposer un service de qualité en effectuant la réparation et la remise à neuf de vérins hydrauliques ainsi que de pompes, de moteurs, de valves et plusieurs autres composantes hydrauliques. De plus, Hydrolico est distributeur d’une vaste gamme de produits utilitaires. Au service d'une clientèle principalement répartie dans les industries forestière, minière et dans le secteur du transport, Hydrolico est en mesure de vous proposer un service juste-à temps. L'entreprise effectue également la vente, la réparation et la remise à neuf de vérins hydrauliques. \n<br>\n<br>\n<br>• Cylindres sur mesure \n<br>• Unités de puissance \n<br>• Systèmes hydrauliques \n<br>• Pompes à débit fixe et variable \n<br>• Valves mobiles et industrielles \n<br>\n<br>Chez Hydrolico, le service et la qualité passent avant tout.</p>\n                            </div>\n\n                            \n\n                        </div>\n                        <div class=\"mbr-table-cell mbr-valign-top col-md-7 image-size\" style=\"width: 38%;\">\n                            \n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#next\"><i class=\"mbri-down\"></i></a></div>\n\n</div></section>",
+          "_customCSS": "H3 {\n  font-size: 48px;\n  text-align: left;\n  color: #ffffff;\n}\nP {\n  text-align: left;\n  color: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "header6-2m"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<meta charset=\"utf-8\">\n<title>Bande-logos</title>\n<link href=\"logos.css\" rel=\"stylesheet\" type=\"text/css\">\n\n\n<div class=\"distributeurs\">Distributeurs autorisés:</div>\n\t<div class=\"logos\">\n\t<a href=\"/LOGOS - CLIC/hydro-custom.jpg\"><img src=\"false\" width=\"82\" height=\"59\" alt=\"hydro-custom\"></a>\n\t<a href=\"/LOGOS - CLIC/salami.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"salami\"></a>\n\t<a href=\"LOGOS - CLIC/winner.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"winner\"></a>\n\t<a href=\"LOGOS - CLIC/emc.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"emc\"></a>\n\t<a href=\"LOGOS - CLIC/delta.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"delta\"></a>\n\t<a href=\"LOGOS - CLIC/hydro-leduc.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"hydro=leduc\"></a>\n\t<a href=\"LOGOS - CLIC/prince.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"prince\"></a>\n\t<a href=\"LOGOS - CLIC/brevini.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"brevini\"></a>\n\t<a href=\"LOGOS - CLIC/technord.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"technord\"></a><br>\n\t<a href=\"LOGOS - CLIC/lenz.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"lenz\"></a>\n    <a href=\"LOGOS - CLIC/stauff.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"stauff\"></a>\n    <a href=\"LOGOS - CLIC/pci.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"pci\"></a>\n    <a href=\"LOGOS - CLIC/hansa.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"hansa\"></a>\n    <a href=\"LOGOS - CLIC/indemar.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"indemar\"></a>\n    <a href=\"LOGOS - CLIC/dn.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"D&amp;N\"></a>\n    <a href=\"LOGOS - CLIC/yuken.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"yuken\"></a>\n    <a href=\"LOGOS - CLIC/blb.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"blb\"></a><br>\n    <a href=\"LOGOS - CLIC/youli.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"youli\"></a>\n    <a href=\"LOGOS - CLIC/padoan.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"padoan\"></a>\n    <a href=\"LOGOS - CLIC/pvs.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"pvs\"></a>\n    <a href=\"LOGOS - CLIC/atlantic.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"atlantic\"></a>\n    <a href=\"LOGOS - CLIC/roquet.jpg\"><img src=\"false\" width=\"80\" height=\"57\" alt=\"roquet\"></a>\n\t</div>\n\n\n\n\n\n\n\n",
+          "_customCSS": "@charset \"utf-8\";\n.logos {\n    text-align: center;\n\tmargin-top: 15px;\n    margin-bottom: 40px;\n}\n.distributeurs {\n    margin-top:15px;\n\ttext-align: center;\n\tfont-family:Gotham, \"Helvetica Neue\", Helvetica;\n\tfont-size: 16px;\n}\n\n",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-2p",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_params": {
+            "showIcons": true,
+            "rows": "6",
+            "listColor": "#b7b7b7",
+            "btnColor": "#e8e8e8",
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#2d2d2d",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "heading": "© 2019 - HYDROLICO Inc. - Tous droits réservés -&nbsp;",
+          "list1": "• &nbsp; &nbsp; &nbsp; <a href=\"page6.html\">À PROPOS</a>",
+          "list2": "<a href=\"page4.html\">PRODUITS</a>",
+          "list3": "<a href=\"page5.html\">SERVICES</a>",
+          "list4": "<a href=\"page2.html\">RÉPARATIONS</a>",
+          "list5": "<a href=\"conception-fabrication.html\">CONCEPTION / FABRICATION</a>",
+          "list6": "<a href=\"page3.html\">CONTACT&nbsp;</a>",
+          "list7": "• &nbsp; &nbsp; &nbsp;EMPLOIS",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "footer2",
+          "_styles": {
+            ".footer-list": {
+              "color": "#b7b7b7"
+            },
+            ".btn-social": {
+              "border-color": "#e8e8e8",
+              "color": "#e8e8e8"
+            },
+            ".btn-social:hover": {
+              "background": "#e8e8e8",
+              "color": "#fff"
+            },
+            ".footer-header": {
+              "color": "#fffffd",
+              "font-size": "18px"
+            },
+            "LI": {
+              "color": "#fffffd",
+              "font-size": "12px"
+            },
+            "A": {
+              "color": "#fffffd"
+            }
+          },
+          "_anchor": "footer2-1a",
+          "_customCSS": ""
+        }
+      ]
+    },
+    "gsdgdsfz.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": []
     }
   }
 }
